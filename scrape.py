@@ -82,7 +82,8 @@ def parse_response(response, data_url):
 
 def getdata(start_num, search_code):
     print("new_go")
-    driver = SgChrome(executable_path="chromedriver.exe", is_headless=True).driver()
+    #driver = SgChrome(executable_path="chromedriver.exe", is_headless=True).driver()
+    driver = SgChrome(is_headless=True).driver()
     driver.get(base_url)
 
     html = driver.page_source
