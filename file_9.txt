@@ -1,0 +1,263 @@
+
+	{"total":500,"data":[
+	
+		{
+			"displayName" : "NEBRASKA CROSSING OUTLETS",
+			"name" : "671",
+			"centerType" : "OUTLET",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "4023325467",
+			"formattedDistance" : "1,357.9 Miles",
+			"line1" : "21407 NEBRASKA CROSSING DR STE J-10",
+			"line2" : "",
+			"town" : "GRETNA",
+			"city" : "NE",
+			"postalCode" : "68028",
+			"country" : "United States",
+			"latitude" : "41.098921",
+			"longitude" : "-96.251673",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/7/21":"11:00 AM - 6:00 PM",
+						"3/8/21":"11:00 AM - 7:00 PM",
+						"3/9/21":"11:00 AM - 7:00 PM",
+						"3/12/21":"11:00 AM - 7:00 PM",
+						"3/15/21":"11:00 AM - 7:00 PM",
+						"3/14/21":"11:00 AM - 6:00 PM",
+						"3/13/21":"10:00 AM - 7:00 PM",
+						"3/18/21":"11:00 AM - 7:00 PM",
+						"3/19/21":"11:00 AM - 7:00 PM",
+						"3/24/21":"11:00 AM - 7:00 PM",
+						"3/22/21":"11:00 AM - 7:00 PM",
+						"3/23/21":"11:00 AM - 7:00 PM",
+						"3/26/21":"11:00 AM - 7:00 PM",
+						"3/16/21":"11:00 AM - 7:00 PM",
+						"3/25/21":"11:00 AM - 7:00 PM",
+						"3/21/21":"11:00 AM - 6:00 PM",
+						"3/31/21":"11:00 AM - 7:00 PM",
+						"3/29/21":"11:00 AM - 7:00 PM",
+						"3/11/21":"11:00 AM - 7:00 PM",
+						"3/27/21":"10:00 AM - 7:00 PM",
+						"3/10/21":"11:00 AM - 7:00 PM",
+						"3/17/21":"11:00 AM - 7:00 PM",
+						"4/2/21":"11:00 AM - 7:00 PM",
+						"3/28/21":"11:00 AM - 6:00 PM",
+						"3/20/21":"10:00 AM - 7:00 PM",
+						"4/3/21":"10:00 AM - 7:00 PM",
+						"3/30/21":"11:00 AM - 7:00 PM",
+						"4/1/21":"11:00 AM - 7:00 PM"
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "OUTLET SHOPPES AT EL PASO",
+			"name" : "500",
+			"centerType" : "OUTLET",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "9158773692",
+			"formattedDistance" : "1,365.4 Miles",
+			"line1" : "7051 SOUTH DESERT BLVD STE D-453",
+			"line2" : "",
+			"town" : "CANUTILLO",
+			"city" : "TX",
+			"postalCode" : "79835",
+			"country" : "United States",
+			"latitude" : "31.9122271",
+			"longitude" : "-106.5862608",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 7:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/11/21":"11:00 AM - 7:00 PM",
+						"3/10/21":"11:00 AM - 7:00 PM",
+						"3/9/21":"11:00 AM - 7:00 PM",
+						"3/13/21":"10:00 AM - 8:00 PM",
+						"3/12/21":"10:00 AM - 8:00 PM",
+						"3/14/21":"10:00 AM - 7:00 PM",
+						"3/15/21":"11:00 AM - 7:00 PM",
+						"3/17/21":"11:00 AM - 7:00 PM",
+						"3/18/21":"11:00 AM - 7:00 PM",
+						"3/20/21":"10:00 AM - 8:00 PM",
+						"3/16/21":"11:00 AM - 7:00 PM",
+						"3/25/21":"11:00 AM - 7:00 PM",
+						"3/21/21":"10:00 AM - 7:00 PM",
+						"3/19/21":"10:00 AM - 8:00 PM",
+						"3/23/21":"11:00 AM - 7:00 PM",
+						"3/27/21":"10:00 AM - 8:00 PM",
+						"3/30/21":"11:00 AM - 7:00 PM",
+						"3/22/21":"11:00 AM - 7:00 PM",
+						"3/28/21":"10:00 AM - 7:00 PM",
+						"3/7/21":"10:00 AM - 7:00 PM",
+						"3/24/21":"11:00 AM - 7:00 PM",
+						"3/8/21":"11:00 AM - 7:00 PM",
+						"4/1/21":"11:00 AM - 7:00 PM",
+						"3/31/21":"11:00 AM - 7:00 PM",
+						"3/29/21":"11:00 AM - 7:00 PM",
+						"3/26/21":"10:00 AM - 8:00 PM"
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "WEST TOWNE MARKETPLACE",
+			"name" : "765",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "9158758208",
+			"formattedDistance" : "1,367 Miles",
+			"line1" : "6450 DESERT BLVD. NORTH BUILDING 6",
+			"line2" : "",
+			"town" : "EL PASO",
+			"city" : "TX",
+			"postalCode" : "79912",
+			"country" : "United States",
+			"latitude" : "31.888459",
+			"longitude" : "-106.5778813",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "NORTH HILLS CROSSING",
+			"name" : "685",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "9158222582",
+			"formattedDistance" : "1,369.4 Miles",
+			"line1" : "10771 GATEWAY S. BLVD SOUTH BLDG E",
+			"line2" : "",
+			"town" : "EL PASO",
+			"city" : "TX",
+			"postalCode" : "79934",
+			"country" : "United States",
+			"latitude" : "31.9240241",
+			"longitude" : "-106.4393357",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "BASSETT PLACE MALL",
+			"name" : "471",
+			"centerType" : "MALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "9158432699",
+			"formattedDistance" : "1,378.4 Miles",
+			"line1" : "6101 GATEWAY WEST SUITE 440",
+			"line2" : "",
+			"town" : "EL PASO",
+			"city" : "TX",
+			"postalCode" : "79925",
+			"country" : "United States",
+			"latitude" : "31.7831084",
+			"longitude" : "-106.4130287",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/10/21":"11:00 AM - 7:00 PM",
+						"3/7/21":"12:00 PM - 6:00 PM",
+						"3/11/21":"11:00 AM - 7:00 PM",
+						"3/8/21":"11:00 AM - 7:00 PM",
+						"3/12/21":"11:00 AM - 8:00 PM",
+						"3/14/21":"12:00 PM - 6:00 PM",
+						"3/13/21":"11:00 AM - 8:00 PM",
+						"3/15/21":"11:00 AM - 7:00 PM",
+						"3/16/21":"11:00 AM - 7:00 PM",
+						"3/9/21":"11:00 AM - 7:00 PM",
+						"3/18/21":"11:00 AM - 7:00 PM",
+						"3/17/21":"11:00 AM - 7:00 PM",
+						"3/20/21":"11:00 AM - 7:00 PM",
+						"3/21/21":"12:00 PM - 6:00 PM",
+						"3/22/21":"11:00 AM - 7:00 PM",
+						"3/27/21":"11:00 AM - 7:00 PM",
+						"3/26/21":"11:00 AM - 7:00 PM",
+						"3/24/21":"11:00 AM - 7:00 PM",
+						"3/29/21":"11:00 AM - 7:00 PM",
+						"3/25/21":"11:00 AM - 7:00 PM",
+						"3/30/21":"11:00 AM - 7:00 PM",
+						"3/31/21":"11:00 AM - 7:00 PM",
+						"3/23/21":"11:00 AM - 7:00 PM",
+						"3/28/21":"12:00 PM - 6:00 PM"
+		},
+
+			"image" : ""
+		}
+	]}
+

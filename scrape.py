@@ -4,7 +4,6 @@ from bs4 import BeautifulSoup as bs
 from sgrequests import SgRequests
 import re
 import pandas as pd
-from sgzip.dynamic import DynamicZipSearch, SearchableCountries
 
 locator_domains = []
 page_urls = []
@@ -21,18 +20,7 @@ latitudes = []
 longitudes = []
 hours_of_operations = []
 
-s = requests.Session()
-
-search = DynamicZipSearch(country_codes=[SearchableCountries.USA])
-
-# s.get("https://www.rackroomshoes.com/_Incapsula_Resource?SWJIYLWA=5074a744e2e3d891814e9a2dace20bd4,719d34d31c8e3a6e6fffd425f7e032f3")
-# print(s.cookies)
-
 base_url = "https://www.rackroomshoes.com"
-
-data_url = "https://www.rackroomshoes.com/store-finder?q=27609&page=1"
-
-url = "https://www.rackroomshoes.com/store-finder"
 
 def parse_response(response, data_url):
     for location in response["data"]:
@@ -76,30 +64,27 @@ def parse_response(response, data_url):
         longitudes.append(longitude)
         hours_of_operations.append(hours)
 
-        current_coords = [latitude, longitude]
-        coords.append(current_coords)
-
-
 def getdata(start_num, search_code):
-    print("new_go")
-    #driver = SgChrome(executable_path="chromedriver.exe", is_headless=True).driver()
-    driver = SgChrome(is_headless=True).driver()
+
+    s = SgRequests()
+
+
+    driver = SgChrome(executable_path="chromedriver.exe", is_headless=True).driver()
+
     driver.get(base_url)
 
     html = driver.page_source
     soup = bs(html, "html.parser")
-    with open('page_source.txt', 'w', encoding='utf-8') as f:
-        print(soup, file=f)
 
     scripts = soup.find_all("script")
-    # print(len(scripts))
+
     for script in scripts:
         try:
             if "Incapsula" in script["src"]:
                 incap_str = script["src"]
                 break
         except Exception:
-            #print(script)
+
             pass
 
     try:
@@ -116,39 +101,43 @@ def getdata(start_num, search_code):
         else:
             
             failed = 0
+            tried = 0
             for request in driver.requests:
-                    print(x)
-                    
-                    data_url = "https://www.rackroomshoes.com/store-finder?q=" + search_code + "&page=" + str(x)
+                
+                
+                data_url = "https://www.rackroomshoes.com/store-finder?q=" + search_code + "&page=" + str(x)
 
-                    headers = request.headers
-                    
+                headers = request.headers
+
+                if headers["Host"] == "www.rackroomshoes.com":
                     try:
                         response = s.get(data_url, headers=headers)
                         response_text = response.text
                         response_json = response.json()
                     except Exception:
+                        tried = tried + 1
+                        if tried == 5:
+                            return x
                         continue
 
                     r_list = response_text.split("displayName")
 
                     if len(r_list) > 2:
 
-                        with open('file_' + str(x) + '.txt', 'w', encoding='utf-8') as f:
-                            print(response, file=f)
 
                         parse_response(response_json, data_url)
 
-                        print("SUCCESS")
                         failed = 1
                         break
-            
+                    
+                else:
+                    pass
             if failed == 0:
                 return x
 
     return x
 
-
+search = ["33122", "98109"]
 for zipcode in search:
     failed_num = 0
     coords = []
@@ -156,10 +145,6 @@ for zipcode in search:
 
         prev_fail = failed_num
         failed_num = getdata(failed_num, zipcode)
-
-        if prev_fail == failed_num:
-            break
-    search.mark_found(coords)
 
 
 df = pd.DataFrame(

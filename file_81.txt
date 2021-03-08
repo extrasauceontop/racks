@@ -1,0 +1,235 @@
+
+	{"total":500,"data":[
+	
+		{
+			"displayName" : "TANGER OUTLETS SURFSIDE",
+			"name" : "194",
+			"centerType" : "OUTLET",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "3026440367",
+			"formattedDistance" : "2,416.4 Miles",
+			"line1" : "35016 MIDWAY OUTLET DR STE 306",
+			"line2" : "",
+			"town" : "REHOBOTH BEACH",
+			"city" : "DE",
+			"postalCode" : "19971",
+			"country" : "United States",
+			"latitude" : "38.7333918",
+			"longitude" : "-75.1403548",
+			
+				"openings":
+		{
+		
+						"Sun":"10:00 AM - 6:00 PM",
+						"Mon":"10:00 AM - 6:00 PM",
+						"Tue":"10:00 AM - 6:00 PM",
+						"Wed":"10:00 AM - 6:00 PM",
+						"Thu":"10:00 AM - 6:00 PM",
+						"Fri":"10:00 AM - 6:00 PM",
+						"Sat":"10:00 AM - 6:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/13/21":"10:00 AM - 6:00 PM",
+						"3/12/21":"10:00 AM - 6:00 PM",
+						"3/11/21":"10:00 AM - 6:00 PM",
+						"3/14/21":"10:00 AM - 6:00 PM",
+						"3/9/21":"10:00 AM - 6:00 PM",
+						"3/15/21":"10:00 AM - 6:00 PM",
+						"3/16/21":"10:00 AM - 6:00 PM",
+						"3/18/21":"10:00 AM - 6:00 PM",
+						"3/8/21":"10:00 AM - 6:00 PM",
+						"3/7/21":"10:00 AM - 6:00 PM",
+						"3/10/21":"10:00 AM - 6:00 PM",
+						"3/19/21":"10:00 AM - 6:00 PM",
+						"3/20/21":"10:00 AM - 6:00 PM",
+						"3/23/21":"10:00 AM - 6:00 PM",
+						"3/24/21":"10:00 AM - 6:00 PM",
+						"3/22/21":"10:00 AM - 6:00 PM",
+						"3/27/21":"10:00 AM - 6:00 PM",
+						"3/17/21":"10:00 AM - 6:00 PM",
+						"3/30/21":"10:00 AM - 6:00 PM",
+						"3/28/21":"10:00 AM - 6:00 PM",
+						"3/29/21":"10:00 AM - 6:00 PM",
+						"3/25/21":"10:00 AM - 6:00 PM",
+						"3/21/21":"10:00 AM - 6:00 PM",
+						"3/26/21":"10:00 AM - 6:00 PM",
+						"3/31/21":"10:00 AM - 6:00 PM"
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "TANGER OUTLET REHOBETH BEACH II",
+			"name" : "547",
+			"centerType" : "OUTLET",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "3022278205",
+			"formattedDistance" : "2,418.5 Miles",
+			"line1" : "36706 BAYSIDE OUTLET DR. STE. 490",
+			"line2" : "",
+			"town" : "REHOBOTH BEACH",
+			"city" : "DE",
+			"postalCode" : "19971",
+			"country" : "United States",
+			"latitude" : "38.7145313",
+			"longitude" : "-75.1103422",
+			
+				"openings":
+		{
+		
+						"Sun":"10:00 AM - 6:00 PM",
+						"Mon":"10:00 AM - 6:00 PM",
+						"Tue":"10:00 AM - 6:00 PM",
+						"Wed":"10:00 AM - 6:00 PM",
+						"Thu":"10:00 AM - 6:00 PM",
+						"Fri":"10:00 AM - 6:00 PM",
+						"Sat":"10:00 AM - 6:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/8/21":"10:00 AM - 6:00 PM",
+						"3/13/21":"10:00 AM - 6:00 PM",
+						"3/7/21":"10:00 AM - 6:00 PM",
+						"3/14/21":"10:00 AM - 6:00 PM",
+						"3/9/21":"10:00 AM - 6:00 PM",
+						"3/11/21":"10:00 AM - 6:00 PM",
+						"3/10/21":"10:00 AM - 6:00 PM",
+						"3/16/21":"10:00 AM - 6:00 PM",
+						"3/18/21":"10:00 AM - 6:00 PM",
+						"3/19/21":"10:00 AM - 6:00 PM",
+						"3/17/21":"10:00 AM - 6:00 PM",
+						"3/20/21":"10:00 AM - 6:00 PM",
+						"3/24/21":"10:00 AM - 6:00 PM",
+						"3/26/21":"10:00 AM - 6:00 PM",
+						"3/21/21":"10:00 AM - 6:00 PM",
+						"3/27/21":"10:00 AM - 6:00 PM",
+						"3/22/21":"10:00 AM - 6:00 PM",
+						"3/25/21":"10:00 AM - 6:00 PM",
+						"3/23/21":"10:00 AM - 6:00 PM",
+						"3/31/21":"10:00 AM - 6:00 PM",
+						"3/30/21":"10:00 AM - 6:00 PM",
+						"3/28/21":"10:00 AM - 6:00 PM",
+						"3/15/21":"10:00 AM - 6:00 PM",
+						"3/29/21":"10:00 AM - 6:00 PM",
+						"3/12/21":"10:00 AM - 6:00 PM"
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "MERCURY PLAZA",
+			"name" : "790",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "7572392280",
+			"formattedDistance" : "2,418.7 Miles",
+			"line1" : "107 MARKETPLACE DR",
+			"line2" : "",
+			"town" : "HAMPTON",
+			"city" : "VA",
+			"postalCode" : "23666",
+			"country" : "United States",
+			"latitude" : "37.0379165",
+			"longitude" : "-76.4027822",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "HOLYOKE MALL",
+			"name" : "620",
+			"centerType" : "MALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "4135360452",
+			"formattedDistance" : "2,419.3 Miles",
+			"line1" : "50 HOLYOKE STREET",
+			"line2" : "",
+			"town" : "HOLYOKE",
+			"city" : "MA",
+			"postalCode" : "01040",
+			"country" : "United States",
+			"latitude" : "42.1676302",
+			"longitude" : "-72.6413569",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 6:00 PM",
+						"Mon":"10:00 AM - 9:30 PM",
+						"Tue":"10:00 AM - 9:30 PM",
+						"Wed":"10:00 AM - 9:30 PM",
+						"Thu":"10:00 AM - 9:30 PM",
+						"Fri":"10:00 AM - 9:30 PM",
+						"Sat":"10:00 AM - 9:30 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "GOLDEN ISLES PLAZA",
+			"name" : "437",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "9124660780",
+			"formattedDistance" : "2,420.5 Miles",
+			"line1" : "145 GOLDEN ISLES PLAZA",
+			"line2" : "",
+			"town" : "BRUNSWICK",
+			"city" : "GA",
+			"postalCode" : "31520",
+			"country" : "United States",
+			"latitude" : "31.2140533",
+			"longitude" : "-81.4926413",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		}
+	]}
+

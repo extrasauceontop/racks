@@ -1,0 +1,238 @@
+
+	{"total":500,"data":[
+	
+		{
+			"displayName" : "PLAZA DE LA PAZ",
+			"name" : "3063",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "true",
+			"url" : "",
+			"phone" : "9498313792",
+			"formattedDistance" : "1,001.8 Miles",
+			"line1" : "27291 LA PAZ RD",
+			"line2" : "",
+			"town" : "LAGUNA NIGUEL",
+			"city" : "CA",
+			"postalCode" : "92677",
+			"country" : "United States",
+			"latitude" : "33.5563801",
+			"longitude" : "-117.711954",
+			
+				"openings":
+		{
+		
+						"Sun":"10:00 AM - 7:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "ORCHARD TOWN CENTER",
+			"name" : "3071",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "true",
+			"url" : "",
+			"phone" : "7208726215",
+			"formattedDistance" : "1,011.5 Miles",
+			"line1" : "14458 DELAWARE ST UNIT 400",
+			"line2" : "",
+			"town" : "WESTMINSTER",
+			"city" : "CO",
+			"postalCode" : "80023",
+			"country" : "United States",
+			"latitude" : "39.9596033",
+			"longitude" : "-104.9899082",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 7:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "COLORADO MILLS",
+			"name" : "3030",
+			"centerType" : "OUTLET",
+			"hideStore" : "true",
+			"url" : "",
+			"phone" : "3032710161",
+			"formattedDistance" : "1,013.9 Miles",
+			"line1" : "14500 W COLFAX AVE UNIT 541",
+			"line2" : "",
+			"town" : "LAKEWOOD",
+			"city" : "CO",
+			"postalCode" : "80401",
+			"country" : "United States",
+			"latitude" : "39.7305483",
+			"longitude" : "-105.1619891",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/9/21":"11:00 AM - 7:00 PM",
+						"3/11/21":"11:00 AM - 7:00 PM",
+						"3/7/21":"11:00 AM - 6:00 PM",
+						"3/8/21":"11:00 AM - 7:00 PM",
+						"3/13/21":"11:00 AM - 7:00 PM",
+						"3/10/21":"11:00 AM - 7:00 PM",
+						"3/12/21":"11:00 AM - 7:00 PM",
+						"3/15/21":"11:00 AM - 7:00 PM",
+						"3/14/21":"11:00 AM - 6:00 PM",
+						"3/17/21":"11:00 AM - 7:00 PM",
+						"3/18/21":"11:00 AM - 7:00 PM",
+						"3/20/21":"11:00 AM - 7:00 PM",
+						"3/19/21":"11:00 AM - 7:00 PM",
+						"3/16/21":"11:00 AM - 7:00 PM"
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "FLAGSTAFF MALL",
+			"name" : "607",
+			"centerType" : "MALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "9285273794",
+			"formattedDistance" : "1,020.4 Miles",
+			"line1" : "4650 N. HIGHWAY 89 SPACE B038",
+			"line2" : "",
+			"town" : "FLAGSTAFF",
+			"city" : "AZ",
+			"postalCode" : "86004",
+			"country" : "United States",
+			"latitude" : "35.2231818",
+			"longitude" : "-111.581811",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/11/21":"11:00 AM - 7:00 PM",
+						"3/10/21":"11:00 AM - 7:00 PM",
+						"3/9/21":"11:00 AM - 7:00 PM",
+						"3/7/21":"12:00 PM - 6:00 PM",
+						"3/13/21":"11:00 AM - 7:00 PM",
+						"3/19/21":"11:00 AM - 7:00 PM",
+						"3/18/21":"11:00 AM - 7:00 PM",
+						"3/17/21":"11:00 AM - 7:00 PM",
+						"3/21/21":"12:00 PM - 6:00 PM",
+						"3/20/21":"11:00 AM - 7:00 PM",
+						"3/24/21":"11:00 AM - 7:00 PM",
+						"3/14/21":"12:00 PM - 6:00 PM",
+						"3/23/21":"11:00 AM - 7:00 PM",
+						"3/25/21":"11:00 AM - 7:00 PM",
+						"3/26/21":"11:00 AM - 7:00 PM",
+						"3/27/21":"11:00 AM - 7:00 PM",
+						"3/16/21":"11:00 AM - 7:00 PM",
+						"3/22/21":"11:00 AM - 7:00 PM",
+						"3/15/21":"11:00 AM - 7:00 PM",
+						"3/8/21":"11:00 AM - 7:00 PM",
+						"3/28/21":"12:00 PM - 6:00 PM",
+						"4/3/21":"11:00 AM - 7:00 PM",
+						"4/2/21":"11:00 AM - 7:00 PM",
+						"3/31/21":"11:00 AM - 7:00 PM",
+						"4/8/21":"11:00 AM - 7:00 PM",
+						"4/6/21":"11:00 AM - 7:00 PM",
+						"4/5/21":"11:00 AM - 7:00 PM",
+						"4/1/21":"11:00 AM - 7:00 PM",
+						"4/4/21":"12:00 PM - 12:00 PM",
+						"4/7/21":"11:00 AM - 7:00 PM",
+						"4/10/21":"11:00 AM - 7:00 PM",
+						"3/30/21":"11:00 AM - 7:00 PM",
+						"4/9/21":"11:00 AM - 7:00 PM",
+						"3/29/21":"11:00 AM - 7:00 PM",
+						"3/12/21":"11:00 AM - 7:00 PM"
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "BELLEVIEW SHORES SHOPPING CENTER",
+			"name" : "3076",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "true",
+			"url" : "",
+			"phone" : "3039339490",
+			"formattedDistance" : "1,021.8 Miles",
+			"line1" : "5396 S WADSWORTH BLVD",
+			"line2" : "",
+			"town" : "LAKEWOOD",
+			"city" : "CO",
+			"postalCode" : "80123",
+			"country" : "United States",
+			"latitude" : "39.6187634",
+			"longitude" : "-105.0880744",
+			
+				"openings":
+		{
+		
+						"Sun":"10:00 AM - 7:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/14/21":"11:00 AM - 7:00 PM",
+						"3/7/21":"11:00 AM - 7:00 PM",
+						"3/21/21":"11:00 AM - 7:00 PM",
+						"3/28/21":"11:00 AM - 7:00 PM"
+		},
+
+			"image" : ""
+		}
+	]}
+

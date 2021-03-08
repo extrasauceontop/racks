@@ -1,0 +1,185 @@
+
+	{"total":500,"data":[
+	
+		{
+			"displayName" : "BOWIE TOWN CENTER",
+			"name" : "3103",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "true",
+			"url" : "",
+			"phone" : "3012627173",
+			"formattedDistance" : "2,334.9 Miles",
+			"line1" : "15426 EMERALD WAY SPACE JA-03",
+			"line2" : "",
+			"town" : "BOWIE",
+			"city" : "MD",
+			"postalCode" : "20716",
+			"country" : "United States",
+			"latitude" : "38.9436522",
+			"longitude" : "-76.7361291",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 7:00 PM",
+						"Mon":"10:00 AM - 8:00 PM",
+						"Tue":"10:00 AM - 8:00 PM",
+						"Wed":"10:00 AM - 8:00 PM",
+						"Thu":"10:00 AM - 8:00 PM",
+						"Fri":"10:00 AM - 8:00 PM",
+						"Sat":"10:00 AM - 8:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "WEST BROAD MARKETPLACE",
+			"name" : "759",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "8043603451",
+			"formattedDistance" : "2,338.4 Miles",
+			"line1" : "12228 W BROAD ST",
+			"line2" : "",
+			"town" : "RICHMOND",
+			"city" : "VA",
+			"postalCode" : "23233",
+			"country" : "United States",
+			"latitude" : "37.6616934",
+			"longitude" : "-77.6373473",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "WESTFIELD ANNAPOLIS",
+			"name" : "638",
+			"centerType" : "MALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "4108974800",
+			"formattedDistance" : "2,342.2 Miles",
+			"line1" : "1610 ANNAPOLIS MALL SUITE 61",
+			"line2" : "",
+			"town" : "ANNAPOLIS",
+			"city" : "MD",
+			"postalCode" : "21401",
+			"country" : "United States",
+			"latitude" : "38.9904274",
+			"longitude" : "-76.5452557",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 7:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "FESTIVAL AT RIVA",
+			"name" : "603",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "4102661656",
+			"formattedDistance" : "2,342.7 Miles",
+			"line1" : "2315 FOREST DR. STE E",
+			"line2" : "",
+			"town" : "ANNAPOLIS",
+			"city" : "MD",
+			"postalCode" : "21401",
+			"country" : "United States",
+			"latitude" : "38.9780581",
+			"longitude" : "-76.5441163",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "THE STREETS AT SOUTHPOINT",
+			"name" : "42",
+			"centerType" : "MALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "9198065131",
+			"formattedDistance" : "2,343.5 Miles",
+			"line1" : "6910 FAYETTEVILLE RD STE 199",
+			"line2" : "",
+			"town" : "DURHAM",
+			"city" : "NC",
+			"postalCode" : "27713",
+			"country" : "United States",
+			"latitude" : "35.9031077",
+			"longitude" : "-78.9415966",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 7:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		}
+	]}
+

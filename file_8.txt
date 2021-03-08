@@ -1,0 +1,240 @@
+
+	{"total":500,"data":[
+	
+		{
+			"displayName" : "ARIZONA MILLS",
+			"name" : "3094",
+			"centerType" : "OUTLET",
+			"hideStore" : "true",
+			"url" : "",
+			"phone" : "4804915450",
+			"formattedDistance" : "1,123 Miles",
+			"line1" : "5000 S ARIZONA MILLS CIR STE 485",
+			"line2" : "",
+			"town" : "TEMPE",
+			"city" : "AZ",
+			"postalCode" : "85282",
+			"country" : "United States",
+			"latitude" : "33.3818617",
+			"longitude" : "-111.9655235",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "PHOENIX PREMIUM OUTLETS",
+			"name" : "650",
+			"centerType" : "OUTLET",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "4806391913",
+			"formattedDistance" : "1,128.7 Miles",
+			"line1" : "4976 PREMIUM OUTLETS WAY SUITE 732",
+			"line2" : "",
+			"town" : "CHANDLER",
+			"city" : "AZ",
+			"postalCode" : "85226",
+			"country" : "United States",
+			"latitude" : "33.2869949",
+			"longitude" : "-111.9735812",
+			
+				"openings":
+		{
+		
+						"Sun":"10:00 AM - 7:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/13/21":"10:00 AM - 8:00 PM",
+						"3/12/21":"10:00 AM - 8:00 PM",
+						"3/10/21":"11:00 AM - 7:00 PM",
+						"3/8/21":"11:00 AM - 7:00 PM",
+						"3/7/21":"12:00 PM - 6:00 PM",
+						"3/14/21":"12:00 PM - 6:00 PM",
+						"3/15/21":"11:00 AM - 7:00 PM",
+						"3/16/21":"11:00 AM - 7:00 PM",
+						"3/17/21":"11:00 AM - 7:00 PM",
+						"3/20/21":"10:00 AM - 8:00 PM",
+						"3/18/21":"11:00 AM - 7:00 PM",
+						"3/22/21":"11:00 AM - 7:00 PM",
+						"3/19/21":"10:00 AM - 8:00 PM",
+						"3/27/21":"10:00 AM - 8:00 PM",
+						"3/11/21":"11:00 AM - 7:00 PM",
+						"3/28/21":"12:00 PM - 6:00 PM",
+						"3/23/21":"11:00 AM - 7:00 PM",
+						"3/30/21":"11:00 AM - 7:00 PM",
+						"3/24/21":"11:00 AM - 7:00 PM",
+						"3/31/21":"11:00 AM - 7:00 PM",
+						"3/25/21":"11:00 AM - 7:00 PM",
+						"3/29/21":"11:00 AM - 7:00 PM",
+						"3/9/21":"11:00 AM - 7:00 PM",
+						"3/21/21":"12:00 PM - 6:00 PM",
+						"3/26/21":"10:00 AM - 8:00 PM"
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "PAVILIONS @ SAN MATEO",
+			"name" : "428",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "5058885464",
+			"formattedDistance" : "1,185.6 Miles",
+			"line1" : "4900 CUTLER AVE NE STE F2",
+			"line2" : "",
+			"town" : "ALBUQUERQUE",
+			"city" : "NM",
+			"postalCode" : "87110",
+			"country" : "United States",
+			"latitude" : "35.1046345",
+			"longitude" : "-106.5902895",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 6:00 PM",
+						"Mon":"9:00 AM - 9:00 PM",
+						"Tue":"9:00 AM - 9:00 PM",
+						"Wed":"9:00 AM - 9:00 PM",
+						"Thu":"9:00 AM - 9:00 PM",
+						"Fri":"9:00 AM - 9:00 PM",
+						"Sat":"9:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "TUCSON PREMIUM OUTLETS",
+			"name" : "703",
+			"centerType" : "OUTLET",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "5207447712",
+			"formattedDistance" : "1,207.4 Miles",
+			"line1" : "6401 W. MARANA CENTER BLVD STE 907",
+			"line2" : "",
+			"town" : "TUCSON",
+			"city" : "AZ",
+			"postalCode" : "85742",
+			"country" : "United States",
+			"latitude" : "32.3755531",
+			"longitude" : "-111.101928",
+			
+				"openings":
+		{
+		
+						"Sun":"10:00 AM - 7:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/7/21":"12:00 PM - 6:00 PM",
+						"3/13/21":"10:00 AM - 8:00 PM",
+						"3/14/21":"12:00 PM - 6:00 PM",
+						"3/8/21":"11:00 AM - 7:00 PM",
+						"3/12/21":"10:00 AM - 8:00 PM",
+						"3/9/21":"11:00 AM - 7:00 PM",
+						"3/11/21":"11:00 AM - 7:00 PM",
+						"3/18/21":"11:00 AM - 7:00 PM",
+						"3/10/21":"11:00 AM - 7:00 PM",
+						"3/17/21":"11:00 AM - 7:00 PM",
+						"3/19/21":"10:00 AM - 8:00 PM",
+						"3/16/21":"11:00 AM - 7:00 PM",
+						"3/15/21":"11:00 AM - 7:00 PM",
+						"3/21/21":"12:00 PM - 6:00 PM",
+						"3/25/21":"11:00 AM - 7:00 PM",
+						"3/24/21":"11:00 AM - 7:00 PM",
+						"3/23/21":"11:00 AM - 7:00 PM",
+						"3/22/21":"11:00 AM - 7:00 PM",
+						"3/26/21":"10:00 AM - 8:00 PM",
+						"3/27/21":"10:00 AM - 8:00 PM",
+						"3/29/21":"11:00 AM - 7:00 PM",
+						"3/20/21":"10:00 AM - 8:00 PM",
+						"3/28/21":"12:00 PM - 6:00 PM",
+						"4/3/21":"10:00 AM - 8:00 PM",
+						"4/2/21":"10:00 AM - 8:00 PM",
+						"3/30/21":"11:00 AM - 7:00 PM",
+						"4/1/21":"11:00 AM - 7:00 PM",
+						"6/26/21":"11:00 AM - 7:00 PM",
+						"6/27/21":"11:00 AM - 7:00 PM",
+						"3/31/21":"11:00 AM - 7:00 PM"
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "LAGUNA SECA S/C",
+			"name" : "426",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "5755329088",
+			"formattedDistance" : "1,337.1 Miles",
+			"line1" : "3050 E. LOHMAN AVENUE STE E",
+			"line2" : "",
+			"town" : "LAS CRUCES",
+			"city" : "NM",
+			"postalCode" : "88011",
+			"country" : "United States",
+			"latitude" : "32.3158301",
+			"longitude" : "-106.7402344",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		}
+	]}
+

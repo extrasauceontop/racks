@@ -1,0 +1,185 @@
+
+	{"total":500,"data":[
+	
+		{
+			"displayName" : "HIRAM PAVILION",
+			"name" : "402",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "6785675040",
+			"formattedDistance" : "2,157.2 Miles",
+			"line1" : "4794 JIMMY LEE SMITH PKWY STE 102",
+			"line2" : "",
+			"town" : "HIRAM",
+			"city" : "GA",
+			"postalCode" : "30141",
+			"country" : "United States",
+			"latitude" : "33.8861973",
+			"longitude" : "-84.7468179",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "WOODSTOCK SQUARE",
+			"name" : "750",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "6784949791",
+			"formattedDistance" : "2,158 Miles",
+			"line1" : "126  WOODSTOCK SQUARE AVE",
+			"line2" : "",
+			"town" : "WOODSTOCK",
+			"city" : "GA",
+			"postalCode" : "30189",
+			"country" : "United States",
+			"latitude" : "34.0835126",
+			"longitude" : "-84.5463508",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "PARKSIDE WEST COBB",
+			"name" : "743",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "7709190390",
+			"formattedDistance" : "2,158.3 Miles",
+			"line1" : "3805 DALLAS HWY SW STE 500",
+			"line2" : "",
+			"town" : "MARIETTA",
+			"city" : "GA",
+			"postalCode" : "30064",
+			"country" : "United States",
+			"latitude" : "33.950814",
+			"longitude" : "-84.6629511",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "THE SHOPPES @ EASTCHASE",
+			"name" : "157",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "3342735510",
+			"formattedDistance" : "2,159.4 Miles",
+			"line1" : "2448 BERRYHILL RD",
+			"line2" : "",
+			"town" : "MONTGOMERY",
+			"city" : "AL",
+			"postalCode" : "36117",
+			"country" : "United States",
+			"latitude" : "32.3577446",
+			"longitude" : "-86.1609469",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 7:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "TOWN CENTER AT COBB",
+			"name" : "616",
+			"centerType" : "MALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "7707951288",
+			"formattedDistance" : "2,160 Miles",
+			"line1" : "400 ERNEST BARRETT PARKWAY",
+			"line2" : "",
+			"town" : "KENNESAW",
+			"city" : "GA",
+			"postalCode" : "30144",
+			"country" : "United States",
+			"latitude" : "34.0180253",
+			"longitude" : "-84.5637886",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		}
+	]}
+

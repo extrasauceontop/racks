@@ -1,0 +1,210 @@
+
+	{"total":500,"data":[
+	
+		{
+			"displayName" : "PROVIDENCE PLACE",
+			"name" : "625",
+			"centerType" : "MALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "4012707536",
+			"formattedDistance" : "2,485.9 Miles",
+			"line1" : "138 PROVIDENCE PLACE SUITE 4210",
+			"line2" : "",
+			"town" : "PROVIDENCE",
+			"city" : "RI",
+			"postalCode" : "02903",
+			"country" : "United States",
+			"latitude" : "41.8277511",
+			"longitude" : "-71.4188555",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/9/21":"11:00 AM - 7:00 PM",
+						"3/17/21":"11:00 AM - 7:00 PM",
+						"3/7/21":"11:00 AM - 6:00 PM",
+						"3/14/21":"11:00 AM - 6:00 PM",
+						"3/22/21":"11:00 AM - 7:00 PM",
+						"3/23/21":"11:00 AM - 7:00 PM",
+						"3/20/21":"11:00 AM - 8:00 PM",
+						"3/16/21":"11:00 AM - 7:00 PM",
+						"3/19/21":"11:00 AM - 8:00 PM",
+						"3/21/21":"11:00 AM - 6:00 PM",
+						"3/26/21":"11:00 AM - 8:00 PM",
+						"3/27/21":"11:00 AM - 8:00 PM",
+						"3/25/21":"11:00 AM - 7:00 PM",
+						"3/8/21":"11:00 AM - 7:00 PM",
+						"3/15/21":"11:00 AM - 7:00 PM",
+						"3/10/21":"11:00 AM - 7:00 PM",
+						"3/18/21":"11:00 AM - 7:00 PM",
+						"3/11/21":"11:00 AM - 7:00 PM",
+						"3/13/21":"11:00 AM - 8:00 PM",
+						"3/12/21":"11:00 AM - 8:00 PM",
+						"3/24/21":"11:00 AM - 7:00 PM"
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "WARWICK MALL",
+			"name" : "3093",
+			"centerType" : "MALL",
+			"hideStore" : "true",
+			"url" : "",
+			"phone" : "4017420929",
+			"formattedDistance" : "2,486.6 Miles",
+			"line1" : "400 BALD HILL ROAD STE A2",
+			"line2" : "",
+			"town" : "WARWICK",
+			"city" : "RI",
+			"postalCode" : "02886",
+			"country" : "United States",
+			"latitude" : "41.7228101",
+			"longitude" : "-71.4754813",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "CYPRESS BAY PLAZA",
+			"name" : "738",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "2522400002",
+			"formattedDistance" : "2,488.3 Miles",
+			"line1" : "5167 HWY 70 W STE 30",
+			"line2" : "",
+			"town" : "MOREHEAD CITY",
+			"city" : "NC",
+			"postalCode" : "28557",
+			"country" : "United States",
+			"latitude" : "34.737028",
+			"longitude" : "-76.806361",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/9/21":"10:00 AM - 8:00 PM",
+						"3/10/21":"10:00 AM - 8:00 PM",
+						"3/11/21":"10:00 AM - 8:00 PM",
+						"3/8/21":"10:00 AM - 8:00 PM"
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "DARE CENTRE",
+			"name" : "632",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "2522551400",
+			"formattedDistance" : "2,490.5 Miles",
+			"line1" : "1700 NORTH CROATAN HWY; MILE POST 7",
+			"line2" : "",
+			"town" : "KILL DEVIL HILLS",
+			"city" : "NC",
+			"postalCode" : "27948",
+			"country" : "United States",
+			"latitude" : "36.032419",
+			"longitude" : "-75.6740823",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "TANGER FACTORY OUTLET CENTER",
+			"name" : "92",
+			"centerType" : "OUTLET",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "2524419288",
+			"formattedDistance" : "2,498.3 Miles",
+			"line1" : "7100 S CROATAN HWY STE 140",
+			"line2" : "",
+			"town" : "NAGS HEAD",
+			"city" : "NC",
+			"postalCode" : "27959",
+			"country" : "United States",
+			"latitude" : "35.9133521",
+			"longitude" : "-75.6027131",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 6:00 PM",
+						"Mon":"10:00 AM - 6:00 PM",
+						"Tue":"10:00 AM - 6:00 PM",
+						"Wed":"10:00 AM - 6:00 PM",
+						"Thu":"10:00 AM - 6:00 PM",
+						"Fri":"10:00 AM - 6:00 PM",
+						"Sat":"10:00 AM - 6:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		}
+	]}
+

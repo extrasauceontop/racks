@@ -1,0 +1,185 @@
+
+	{"total":500,"data":[
+	
+		{
+			"displayName" : "SHOPS AT FIVE HILLS",
+			"name" : "719",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "2545479087",
+			"formattedDistance" : "1,721.7 Miles",
+			"line1" : "232 ROBERT GRIFFIN III BLVD STE 400",
+			"line2" : "",
+			"town" : "COPPERAS COVE",
+			"city" : "TX",
+			"postalCode" : "76522",
+			"country" : "United States",
+			"latitude" : "31.1184972",
+			"longitude" : "-97.8666839",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "CENTRAL MARKETPLACE",
+			"name" : "460",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "2546623766",
+			"formattedDistance" : "1,730.3 Miles",
+			"line1" : "2424 WEST LOOP 340",
+			"line2" : "",
+			"town" : "WACO",
+			"city" : "TX",
+			"postalCode" : "76711",
+			"country" : "United States",
+			"latitude" : "31.4989689",
+			"longitude" : "-97.1573177",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "WOLF RANCH SHOPPING CENTER",
+			"name" : "441",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "5128199951",
+			"formattedDistance" : "1,753.7 Miles",
+			"line1" : "1021 W UNIVERSITY AVE STE 125",
+			"line2" : "",
+			"town" : "GEORGETOWN",
+			"city" : "TX",
+			"postalCode" : "78628",
+			"country" : "United States",
+			"latitude" : "30.6294402",
+			"longitude" : "-97.6974214",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "LA FRONTERA VILLAGE",
+			"name" : "349",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "5126000106",
+			"formattedDistance" : "1,762.2 Miles",
+			"line1" : "2701 PARKER RD BLDG A  STE 600",
+			"line2" : "",
+			"town" : "ROUND ROCK",
+			"city" : "TX",
+			"postalCode" : "78681",
+			"country" : "United States",
+			"latitude" : "30.4809805",
+			"longitude" : "-97.6784798",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "STONE HILL T/C SUITE 400",
+			"name" : "543",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "5129900265",
+			"formattedDistance" : "1,766 Miles",
+			"line1" : "18700 LIMESTONE COMMERCIAL DR",
+			"line2" : "",
+			"town" : "PFLUGERVILLE",
+			"city" : "TX",
+			"postalCode" : "78660",
+			"country" : "United States",
+			"latitude" : "30.4673232",
+			"longitude" : "-97.5987853",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		}
+	]}
+

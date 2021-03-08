@@ -1,0 +1,235 @@
+
+	{"total":500,"data":[
+	
+		{
+			"displayName" : "THE COMMONS AT DEXTER LAKE",
+			"name" : "1009",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "9012937967",
+			"formattedDistance" : "1,874.9 Miles",
+			"line1" : "1713 N GERMANTOWN PKWY STE 101",
+			"line2" : "",
+			"town" : "CORDOVA",
+			"city" : "TN",
+			"postalCode" : "38016",
+			"country" : "United States",
+			"latitude" : "35.1720333",
+			"longitude" : "-89.7952048",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "SOUTHAVEN TOWN CENTER",
+			"name" : "396",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "6625361968",
+			"formattedDistance" : "1,875.1 Miles",
+			"line1" : "6510 TOWNE CENTER LOOP",
+			"line2" : "",
+			"town" : "SOUTHAVEN",
+			"city" : "MS",
+			"postalCode" : "38671",
+			"country" : "United States",
+			"latitude" : "34.9553586",
+			"longitude" : "-89.9958227",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "TANGER OUTLETS SOUTHAVEN",
+			"name" : "730",
+			"centerType" : "OUTLET",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "6623496304",
+			"formattedDistance" : "1,876.1 Miles",
+			"line1" : "5205 AIRWAYS BLVD BLDG 1 STE 120",
+			"line2" : "",
+			"town" : "SOUTHAVEN",
+			"city" : "MS",
+			"postalCode" : "38671",
+			"country" : "United States",
+			"latitude" : "34.9362555",
+			"longitude" : "-89.9916172",
+			
+				"openings":
+		{
+		
+						"Sun":"10:00 AM - 7:00 PM",
+						"Mon":"9:00 AM - 9:00 PM",
+						"Tue":"9:00 AM - 9:00 PM",
+						"Wed":"9:00 AM - 9:00 PM",
+						"Thu":"9:00 AM - 9:00 PM",
+						"Fri":"9:00 AM - 9:00 PM",
+						"Sat":"9:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/10/21":"10:00 AM - 7:00 PM",
+						"3/7/21":"12:00 PM - 6:00 PM",
+						"3/14/21":"12:00 PM - 6:00 PM",
+						"3/13/21":"10:00 AM - 7:00 PM",
+						"3/8/21":"10:00 AM - 7:00 PM",
+						"3/17/21":"10:00 AM - 7:00 PM",
+						"3/9/21":"10:00 AM - 7:00 PM",
+						"3/16/21":"10:00 AM - 7:00 PM",
+						"3/12/21":"10:00 AM - 7:00 PM",
+						"3/15/21":"10:00 AM - 7:00 PM",
+						"3/20/21":"10:00 AM - 7:00 PM",
+						"3/18/21":"10:00 AM - 7:00 PM",
+						"3/23/21":"10:00 AM - 7:00 PM",
+						"3/21/21":"12:00 PM - 6:00 PM",
+						"3/22/21":"10:00 AM - 7:00 PM",
+						"3/25/21":"10:00 AM - 7:00 PM",
+						"3/26/21":"10:00 AM - 7:00 PM",
+						"3/28/21":"12:00 PM - 6:00 PM",
+						"3/11/21":"10:00 AM - 7:00 PM",
+						"3/27/21":"10:00 AM - 7:00 PM",
+						"3/30/21":"10:00 AM - 7:00 PM",
+						"3/31/21":"10:00 AM - 7:00 PM",
+						"3/19/21":"10:00 AM - 7:00 PM",
+						"3/29/21":"10:00 AM - 7:00 PM",
+						"3/24/21":"10:00 AM - 7:00 PM"
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "TANGER OUTLETS OF SOUTHAVEN",
+			"name" : "3112",
+			"centerType" : "OUTLET",
+			"hideStore" : "true",
+			"url" : "",
+			"phone" : "6623496208",
+			"formattedDistance" : "1,876.1 Miles",
+			"line1" : "5205 AIRWAYS BLVD. BLDG 4 STE. 400",
+			"line2" : "",
+			"town" : "SOUTHAVEN",
+			"city" : "MS",
+			"postalCode" : "38671",
+			"country" : "United States",
+			"latitude" : "34.9362555",
+			"longitude" : "-89.9916172",
+			
+				"openings":
+		{
+		
+						"Sun":"10:00 AM - 7:00 PM",
+						"Mon":"9:00 AM - 9:00 PM",
+						"Tue":"9:00 AM - 9:00 PM",
+						"Wed":"9:00 AM - 9:00 PM",
+						"Thu":"9:00 AM - 9:00 PM",
+						"Fri":"9:00 AM - 9:00 PM",
+						"Sat":"9:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/13/21":"10:00 AM - 7:00 PM",
+						"3/14/21":"12:00 PM - 6:00 PM",
+						"3/17/21":"10:00 AM - 7:00 PM",
+						"3/18/21":"10:00 AM - 7:00 PM",
+						"3/9/21":"10:00 AM - 7:00 PM",
+						"3/21/21":"12:00 PM - 6:00 PM",
+						"3/12/21":"10:00 AM - 7:00 PM",
+						"3/19/21":"10:00 AM - 7:00 PM",
+						"3/15/21":"10:00 AM - 7:00 PM",
+						"3/22/21":"10:00 AM - 7:00 PM",
+						"3/23/21":"10:00 AM - 7:00 PM",
+						"3/24/21":"10:00 AM - 7:00 PM",
+						"3/20/21":"10:00 AM - 7:00 PM",
+						"3/25/21":"10:00 AM - 7:00 PM",
+						"3/11/21":"10:00 AM - 7:00 PM",
+						"3/27/21":"10:00 AM - 7:00 PM",
+						"3/26/21":"10:00 AM - 7:00 PM",
+						"3/10/21":"10:00 AM - 7:00 PM",
+						"3/28/21":"12:00 PM - 6:00 PM",
+						"3/8/21":"10:00 AM - 7:00 PM",
+						"3/31/21":"10:00 AM - 7:00 PM",
+						"3/29/21":"10:00 AM - 7:00 PM",
+						"3/7/21":"12:00 PM - 6:00 PM",
+						"3/16/21":"10:00 AM - 7:00 PM",
+						"3/30/21":"10:00 AM - 7:00 PM"
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "VALLEY RANCH TOWN CENTER",
+			"name" : "766",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "2813540179",
+			"formattedDistance" : "1,877 Miles",
+			"line1" : "21448 MARKET PLACE DR",
+			"line2" : "",
+			"town" : "NEW CANEY",
+			"city" : "TX",
+			"postalCode" : "77357",
+			"country" : "United States",
+			"latitude" : "30.1349593",
+			"longitude" : "-95.2302158",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		}
+	]}
+

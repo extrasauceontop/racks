@@ -1,0 +1,256 @@
+
+	{"total":500,"data":[
+	
+		{
+			"displayName" : "WESTFIELD  COUNTRYSIDE MALL",
+			"name" : "230",
+			"centerType" : "MALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "7277249780",
+			"formattedDistance" : "2,511.7 Miles",
+			"line1" : "27001 US HWY 19 N STE 2001",
+			"line2" : "",
+			"town" : "CLEARWATER",
+			"city" : "FL",
+			"postalCode" : "33761",
+			"country" : "United States",
+			"latitude" : "28.0173569",
+			"longitude" : "-82.7350092",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/12/21":"10:00 AM - 8:00 PM",
+						"3/8/21":"11:00 AM - 7:00 PM",
+						"3/9/21":"11:00 AM - 7:00 PM",
+						"3/11/21":"11:00 AM - 7:00 PM",
+						"3/16/21":"11:00 AM - 7:00 PM",
+						"3/15/21":"11:00 AM - 7:00 PM",
+						"3/18/21":"11:00 AM - 7:00 PM",
+						"3/10/21":"11:00 AM - 7:00 PM",
+						"3/17/21":"11:00 AM - 7:00 PM",
+						"3/13/21":"10:00 AM - 8:00 PM",
+						"3/19/21":"10:00 AM - 8:00 PM",
+						"3/22/21":"11:00 AM - 7:00 PM",
+						"3/30/21":"11:00 AM - 7:00 PM",
+						"3/24/21":"11:00 AM - 7:00 PM",
+						"3/23/21":"11:00 AM - 7:00 PM",
+						"3/29/21":"11:00 AM - 7:00 PM",
+						"3/31/21":"11:00 AM - 7:00 PM",
+						"3/20/21":"10:00 AM - 8:00 PM",
+						"3/25/21":"11:00 AM - 7:00 PM",
+						"4/1/21":"11:00 AM - 7:00 PM"
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "LARGO MALL",
+			"name" : "84",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "7275856603",
+			"formattedDistance" : "2,515.6 Miles",
+			"line1" : "10500 ULMERTON RD STE 626",
+			"line2" : "",
+			"town" : "LARGO",
+			"city" : "FL",
+			"postalCode" : "33771",
+			"country" : "United States",
+			"latitude" : "27.8916219",
+			"longitude" : "-82.7830594",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "WESTFIELD CITRUS PARK",
+			"name" : "324",
+			"centerType" : "MALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "8139201591",
+			"formattedDistance" : "2,516.4 Miles",
+			"line1" : "7803 CITRUS PARK TWN CTR MALL SP650",
+			"line2" : "",
+			"town" : "TAMPA",
+			"city" : "FL",
+			"postalCode" : "33625",
+			"country" : "United States",
+			"latitude" : "28.0687278",
+			"longitude" : "-82.5741425",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/7/21":"12:00 PM - 6:00 PM",
+						"3/9/21":"11:00 AM - 7:00 PM",
+						"3/10/21":"11:00 AM - 7:00 PM",
+						"3/14/21":"12:00 PM - 6:00 PM",
+						"3/12/21":"10:00 AM - 8:00 PM",
+						"3/13/21":"10:00 AM - 8:00 PM",
+						"3/8/21":"11:00 AM - 7:00 PM",
+						"3/11/21":"11:00 AM - 7:00 PM",
+						"3/16/21":"11:00 AM - 7:00 PM",
+						"3/17/21":"11:00 AM - 7:00 PM",
+						"3/23/21":"11:00 AM - 7:00 PM",
+						"3/24/21":"11:00 AM - 7:00 PM",
+						"3/19/21":"10:00 AM - 8:00 PM",
+						"3/15/21":"11:00 AM - 7:00 PM",
+						"3/22/21":"11:00 AM - 7:00 PM",
+						"3/27/21":"10:00 AM - 8:00 PM",
+						"3/18/21":"11:00 AM - 7:00 PM",
+						"3/20/21":"10:00 AM - 8:00 PM",
+						"3/21/21":"12:00 PM - 6:00 PM",
+						"3/26/21":"10:00 AM - 8:00 PM",
+						"3/29/21":"11:00 AM - 7:00 PM",
+						"3/31/21":"11:00 AM - 7:00 PM",
+						"3/30/21":"11:00 AM - 7:00 PM",
+						"3/25/21":"11:00 AM - 7:00 PM",
+						"4/1/21":"11:00 AM - 7:00 PM",
+						"4/3/21":"10:00 AM - 8:00 PM",
+						"4/2/21":"10:00 AM - 8:00 PM",
+						"3/28/21":"12:00 PM - 6:00 PM"
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "SEMINOLE CITY CENTER",
+			"name" : "749",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "7273190018",
+			"formattedDistance" : "2,517.4 Miles",
+			"line1" : "7943 113TH ST N",
+			"line2" : "",
+			"town" : "SEMINOLE",
+			"city" : "FL",
+			"postalCode" : "33772",
+			"country" : "United States",
+			"latitude" : "27.8448454",
+			"longitude" : "-82.7927664",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "TAMPA PREMIUM OUTLETS",
+			"name" : "665",
+			"centerType" : "OUTLET",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "8137780374",
+			"formattedDistance" : "2,518.7 Miles",
+			"line1" : "2224 GRAND CYPRESS DR STE 715",
+			"line2" : "",
+			"town" : "LUTZ",
+			"city" : "FL",
+			"postalCode" : "33559",
+			"country" : "United States",
+			"latitude" : "28.1903508",
+			"longitude" : "-82.3910856",
+			
+				"openings":
+		{
+		
+						"Sun":"10:00 AM - 7:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/9/21":"11:00 AM - 7:00 PM",
+						"3/7/21":"12:00 PM - 6:00 PM",
+						"3/12/21":"10:00 AM - 8:00 PM",
+						"3/10/21":"11:00 AM - 7:00 PM",
+						"3/8/21":"11:00 AM - 7:00 PM",
+						"3/11/21":"11:00 AM - 7:00 PM",
+						"3/15/21":"11:00 AM - 7:00 PM",
+						"3/13/21":"10:00 AM - 8:00 PM",
+						"3/18/21":"11:00 AM - 7:00 PM",
+						"3/19/21":"10:00 AM - 8:00 PM",
+						"3/22/21":"11:00 AM - 7:00 PM",
+						"3/20/21":"10:00 AM - 8:00 PM",
+						"3/16/21":"11:00 AM - 7:00 PM",
+						"3/23/21":"11:00 AM - 7:00 PM",
+						"3/27/21":"10:00 AM - 8:00 PM",
+						"3/29/21":"11:00 AM - 7:00 PM",
+						"3/28/21":"12:00 PM - 6:00 PM",
+						"3/25/21":"11:00 AM - 7:00 PM",
+						"3/26/21":"10:00 AM - 8:00 PM",
+						"3/21/21":"12:00 PM - 6:00 PM",
+						"3/14/21":"12:00 PM - 6:00 PM",
+						"3/17/21":"11:00 AM - 7:00 PM",
+						"3/24/21":"11:00 AM - 7:00 PM"
+		},
+
+			"image" : ""
+		}
+	]}
+

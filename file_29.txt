@@ -1,0 +1,185 @@
+
+	{"total":500,"data":[
+	
+		{
+			"displayName" : "FOUNTAINS ON THE LAKE",
+			"name" : "295",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "2814945858",
+			"formattedDistance" : "1,888.3 Miles",
+			"line1" : "12642 FOUNTAIN LAKE CIR",
+			"line2" : "",
+			"town" : "STAFFORD",
+			"city" : "TX",
+			"postalCode" : "77477",
+			"country" : "United States",
+			"latitude" : "29.6384722",
+			"longitude" : "-95.5873832",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "MEYERLAND PLAZA",
+			"name" : "336",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "7136640704",
+			"formattedDistance" : "1,890.9 Miles",
+			"line1" : "240 MEYERLAND PLAZA",
+			"line2" : "",
+			"town" : "HOUSTON",
+			"city" : "TX",
+			"postalCode" : "77096",
+			"country" : "United States",
+			"latitude" : "29.6856996",
+			"longitude" : "-95.4610753",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "SHOPS @ STONE PARK",
+			"name" : "551",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "2814583405",
+			"formattedDistance" : "1,896.3 Miles",
+			"line1" : "5930 E. SAM HOUSTON PARKWAY N.",
+			"line2" : "",
+			"town" : "HOUSTON",
+			"city" : "TX",
+			"postalCode" : "77049",
+			"country" : "United States",
+			"latitude" : "29.8114552",
+			"longitude" : "-95.1615678",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "THE COLUMNS OF JACKSON",
+			"name" : "369",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "7316649948",
+			"formattedDistance" : "1,896.6 Miles",
+			"line1" : "1081 VAN DRIVE STE 110",
+			"line2" : "",
+			"town" : "JACKSON",
+			"city" : "TN",
+			"postalCode" : "38305",
+			"country" : "United States",
+			"latitude" : "35.6668807",
+			"longitude" : "-88.8612496",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "PEARLAND TOWN CENTER",
+			"name" : "523",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "7134364834",
+			"formattedDistance" : "1,900.5 Miles",
+			"line1" : "11200 BROADWAY SUITE 1030",
+			"line2" : "",
+			"town" : "PEARLAND",
+			"city" : "TX",
+			"postalCode" : "77584",
+			"country" : "United States",
+			"latitude" : "29.5523131",
+			"longitude" : "-95.3921146",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 7:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		}
+	]}
+

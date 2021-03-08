@@ -1,0 +1,185 @@
+
+	{"total":500,"data":[
+	
+		{
+			"displayName" : "HIGH POINT MALL",
+			"name" : "10",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "3368893686",
+			"formattedDistance" : "2,290.3 Miles",
+			"line1" : "265 EASTCHESTER DR STE 126",
+			"line2" : "",
+			"town" : "HIGH POINT",
+			"city" : "NC",
+			"postalCode" : "27262",
+			"country" : "United States",
+			"latitude" : "35.9844589",
+			"longitude" : "-80.0193447",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "BLAKENEY SHOPPING CENTER",
+			"name" : "3066",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "true",
+			"url" : "",
+			"phone" : "7045428865",
+			"formattedDistance" : "2,290.9 Miles",
+			"line1" : "9876 REA ROAD STE A",
+			"line2" : "",
+			"town" : "CHARLOTTE",
+			"city" : "NC",
+			"postalCode" : "28277",
+			"country" : "United States",
+			"latitude" : "35.0354297",
+			"longitude" : "-80.8092079",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 7:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "MATTHEWS FESTIVAL",
+			"name" : "45",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "7048478738",
+			"formattedDistance" : "2,292 Miles",
+			"line1" : "1819 MATTHEWS TOWNSHIP PARKWAY",
+			"line2" : "",
+			"town" : "MATTHEWS",
+			"city" : "NC",
+			"postalCode" : "28105",
+			"country" : "United States",
+			"latitude" : "35.1257092",
+			"longitude" : "-80.7084906",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "JEFFERSON VILLAGE",
+			"name" : "365",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "3362997314",
+			"formattedDistance" : "2,292 Miles",
+			"line1" : "1610 HIGHWOODS BLVD STE F109",
+			"line2" : "",
+			"town" : "GREENSBORO",
+			"city" : "NC",
+			"postalCode" : "27410",
+			"country" : "United States",
+			"latitude" : "36.1117021",
+			"longitude" : "-79.8772359",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "MULLINS CROSSING",
+			"name" : "476",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "7066519586",
+			"formattedDistance" : "2,292.3 Miles",
+			"line1" : "4219 WASHINGTON RD # 3",
+			"line2" : "",
+			"town" : "EVANS",
+			"city" : "GA",
+			"postalCode" : "30809",
+			"country" : "United States",
+			"latitude" : "33.52594344",
+			"longitude" : "-82.11756387",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		}
+	]}
+

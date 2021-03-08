@@ -1,0 +1,185 @@
+
+	{"total":500,"data":[
+	
+		{
+			"displayName" : "EPPS BRIDGE CROSSING SHOPPING CTR",
+			"name" : "3104",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "true",
+			"url" : "",
+			"phone" : "7064251825",
+			"formattedDistance" : "2,214.8 Miles",
+			"line1" : "1791 OCONEE CONNECTOR STE 310",
+			"line2" : "",
+			"town" : "ATHENS",
+			"city" : "GA",
+			"postalCode" : "30606",
+			"country" : "United States",
+			"latitude" : "33.9162422",
+			"longitude" : "-83.4556853",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 7:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "BEECHWOOD PROMENADE",
+			"name" : "636",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "7064258960",
+			"formattedDistance" : "2,215.6 Miles",
+			"line1" : "196 ALPS RD SUITE 27",
+			"line2" : "",
+			"town" : "ATHENS",
+			"city" : "GA",
+			"postalCode" : "30606",
+			"country" : "United States",
+			"latitude" : "33.9449673",
+			"longitude" : "-83.4111086",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 7:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "TOWN AND COUNTRY SHOPPING CTR",
+			"name" : "398",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "8648592054",
+			"formattedDistance" : "2,217.9 Miles",
+			"line1" : "6101 CALHOUN MEMORIAL HWY STE FF",
+			"line2" : "",
+			"town" : "EASLEY",
+			"city" : "SC",
+			"postalCode" : "29640",
+			"country" : "United States",
+			"latitude" : "34.8218724",
+			"longitude" : "-82.577854",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "ENTERPRISE SHOPPING CENTER",
+			"name" : "767",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "3343930054",
+			"formattedDistance" : "2,220.8 Miles",
+			"line1" : "628 BOLL WEEVIL CIRCLE",
+			"line2" : "",
+			"town" : "ENTERPRISE",
+			"city" : "AL",
+			"postalCode" : "36330",
+			"country" : "United States",
+			"latitude" : "31.3197638",
+			"longitude" : "-85.8289658",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "ANDERSON MALL",
+			"name" : "164",
+			"centerType" : "MALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "8642266157",
+			"formattedDistance" : "2,225 Miles",
+			"line1" : "3101 N MAIN ST STE Q06A",
+			"line2" : "",
+			"town" : "ANDERSON",
+			"city" : "SC",
+			"postalCode" : "29621",
+			"country" : "United States",
+			"latitude" : "34.5391162",
+			"longitude" : "-82.6717675",
+			
+				"openings":
+		{
+		
+						"Sun":"12:30 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		}
+	]}
+

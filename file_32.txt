@@ -1,0 +1,211 @@
+
+	{"total":500,"data":[
+	
+		{
+			"displayName" : "PRIEN LAKE PLAZA",
+			"name" : "395",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "3374800474",
+			"formattedDistance" : "1,954.5 Miles",
+			"line1" : "1760 W PRIEN LAKE ROAD",
+			"line2" : "",
+			"town" : "LAKE CHARLES",
+			"city" : "LA",
+			"postalCode" : "70601",
+			"country" : "United States",
+			"latitude" : "30.2001373",
+			"longitude" : "-93.2471119",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 6:00 PM",
+						"Mon":"9:30 AM - 9:00 PM",
+						"Tue":"9:30 AM - 9:00 PM",
+						"Wed":"9:30 AM - 9:00 PM",
+						"Thu":"9:30 AM - 9:00 PM",
+						"Fri":"9:30 AM - 9:00 PM",
+						"Sat":"9:30 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "THE OUTLET SHOPPES OF THE BLUEGRASS",
+			"name" : "637",
+			"centerType" : "OUTLET",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "5027225154",
+			"formattedDistance" : "1,960.1 Miles",
+			"line1" : "1155 BUCK CREEK RD STE F622",
+			"line2" : "",
+			"town" : "SIMPSONVILLE",
+			"city" : "KY",
+			"postalCode" : "40067",
+			"country" : "United States",
+			"latitude" : "38.2062338",
+			"longitude" : "-85.3520379",
+			
+				"openings":
+		{
+		
+						"Sun":"10:00 AM - 7:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/10/21":"11:00 AM - 8:00 PM",
+						"3/15/21":"11:00 AM - 8:00 PM",
+						"3/9/21":"11:00 AM - 8:00 PM",
+						"3/17/21":"11:00 AM - 8:00 PM",
+						"3/14/21":"11:00 AM - 7:00 PM",
+						"3/11/21":"11:00 AM - 8:00 PM",
+						"3/22/21":"11:00 AM - 8:00 PM",
+						"3/21/21":"11:00 AM - 7:00 PM",
+						"3/23/21":"11:00 AM - 8:00 PM",
+						"3/8/21":"11:00 AM - 8:00 PM",
+						"3/18/21":"11:00 AM - 8:00 PM",
+						"3/25/21":"11:00 AM - 8:00 PM",
+						"3/28/21":"11:00 AM - 7:00 PM",
+						"3/16/21":"11:00 AM - 8:00 PM",
+						"3/24/21":"11:00 AM - 8:00 PM",
+						"3/30/21":"11:00 AM - 8:00 PM",
+						"3/7/21":"11:00 AM - 7:00 PM",
+						"3/29/21":"11:00 AM - 8:00 PM",
+						"3/31/21":"11:00 AM - 8:00 PM"
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "ONE BELLEVUE PLACE",
+			"name" : "3128",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "true",
+			"url" : "",
+			"phone" : "6159023919",
+			"formattedDistance" : "1,967.1 Miles",
+			"line1" : "8153 SAWYER BROWN RD",
+			"line2" : "",
+			"town" : "NASHVILLE",
+			"city" : "TN",
+			"postalCode" : "37221",
+			"country" : "United States",
+			"latitude" : "36.0817699",
+			"longitude" : "-86.9447863",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "RIVERGATE MALL",
+			"name" : "203",
+			"centerType" : "MALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "6158597994",
+			"formattedDistance" : "1,969.7 Miles",
+			"line1" : "1000 RIVERGATE PARKWAY STE. 1050",
+			"line2" : "",
+			"town" : "GOODLETTSVILLE",
+			"city" : "TN",
+			"postalCode" : "37072",
+			"country" : "United States",
+			"latitude" : "36.3026581",
+			"longitude" : "-86.6986762",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/11/21":"11:00 AM - 7:00 PM",
+						"3/9/21":"11:00 AM - 7:00 PM",
+						"3/10/21":"11:00 AM - 7:00 PM",
+						"3/12/21":"11:00 AM - 7:00 PM",
+						"3/13/21":"11:00 AM - 7:00 PM",
+						"3/7/21":"12:00 PM - 6:00 PM",
+						"3/8/21":"11:00 AM - 7:00 PM"
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "TRENTON CROSSING",
+			"name" : "339",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "9569281299",
+			"formattedDistance" : "1,971.5 Miles",
+			"line1" : "7600 NORTH 10TH ST. STE 600 B",
+			"line2" : "",
+			"town" : "MCALLEN",
+			"city" : "TX",
+			"postalCode" : "78504",
+			"country" : "United States",
+			"latitude" : "26.2727858",
+			"longitude" : "-98.2154712",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		}
+	]}
+

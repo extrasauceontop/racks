@@ -1,0 +1,185 @@
+
+	{"total":500,"data":[
+	
+		{
+			"displayName" : "FAYETTEVILLE PAVILLION",
+			"name" : "13",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "9108684244",
+			"formattedDistance" : "2,375.2 Miles",
+			"line1" : "2065 SKIBO RD UNIT 1",
+			"line2" : "",
+			"town" : "FAYETTEVILLE",
+			"city" : "NC",
+			"postalCode" : "28314",
+			"country" : "United States",
+			"latitude" : "35.053911",
+			"longitude" : "-78.9725263",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "PHILADELPHIA MILLS",
+			"name" : "684",
+			"centerType" : "OUTLET",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "2156376556",
+			"formattedDistance" : "2,378.6 Miles",
+			"line1" : "1239 FRANKLIN MILLS CIRCLE",
+			"line2" : "",
+			"town" : "PHILADELPHIA",
+			"city" : "PA",
+			"postalCode" : "19154",
+			"country" : "United States",
+			"latitude" : "40.087695",
+			"longitude" : "-74.9616093",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 7:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "PHILADELPHIA MILLS",
+			"name" : "3020",
+			"centerType" : "OUTLET",
+			"hideStore" : "true",
+			"url" : "",
+			"phone" : "2155013251",
+			"formattedDistance" : "2,378.6 Miles",
+			"line1" : "1477 FRANKLIN MILLS CIR",
+			"line2" : "",
+			"town" : "PHILADELPHIA",
+			"city" : "PA",
+			"postalCode" : "19154",
+			"country" : "United States",
+			"latitude" : "40.0874832",
+			"longitude" : "-74.9611898",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 7:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "THE MALL AT WAYCROSS",
+			"name" : "721",
+			"centerType" : "MALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "9122858033",
+			"formattedDistance" : "2,383.4 Miles",
+			"line1" : "2215 MEMORIAL DR",
+			"line2" : "",
+			"town" : "WAYCROSS",
+			"city" : "GA",
+			"postalCode" : "31501",
+			"country" : "United States",
+			"latitude" : "31.1990741",
+			"longitude" : "-82.3250492",
+			
+				"openings":
+		{
+		
+						"Sun":"1:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "GLOUCESTER PREMIUM OUTLETS",
+			"name" : "725",
+			"centerType" : "OUTLET",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "8563024038",
+			"formattedDistance" : "2,384.5 Miles",
+			"line1" : "100 PREMIUM OUTLETS DRIVE SUITE 933",
+			"line2" : "",
+			"town" : "BLACKWOOD",
+			"city" : "NJ",
+			"postalCode" : "08012",
+			"country" : "United States",
+			"latitude" : "39.7855538",
+			"longitude" : "-75.0524112",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"11:00 AM - 7:00 PM",
+						"Tue":"11:00 AM - 7:00 PM",
+						"Wed":"11:00 AM - 7:00 PM",
+						"Thu":"11:00 AM - 7:00 PM",
+						"Fri":"10:00 AM - 8:00 PM",
+						"Sat":"10:00 AM - 8:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		}
+	]}
+

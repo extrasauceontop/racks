@@ -1,0 +1,210 @@
+
+	{"total":500,"data":[
+	
+		{
+			"displayName" : "BANDERA POINTE",
+			"name" : "370",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "2106823627",
+			"formattedDistance" : "1,773.9 Miles",
+			"line1" : "11667 BANDERA ROAD",
+			"line2" : "",
+			"town" : "SAN ANTONIO",
+			"city" : "TX",
+			"postalCode" : "78250",
+			"country" : "United States",
+			"latitude" : "29.5502122",
+			"longitude" : "-98.667067",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "SOUTHPARK MEADOWS",
+			"name" : "445",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "5122921995",
+			"formattedDistance" : "1,774.6 Miles",
+			"line1" : "9600 S INTERSTATE 35 STE N100",
+			"line2" : "",
+			"town" : "AUSTIN",
+			"city" : "TX",
+			"postalCode" : "78748",
+			"country" : "United States",
+			"latitude" : "30.1597669",
+			"longitude" : "-97.7931663",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "ALAMO RANCH MARKET PLACE",
+			"name" : "533",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "2106805878",
+			"formattedDistance" : "1,775.5 Miles",
+			"line1" : "5347 W. LOOP 1604 NORTH STE 126",
+			"line2" : "",
+			"town" : "SAN ANTONIO",
+			"city" : "TX",
+			"postalCode" : "78253",
+			"country" : "United States",
+			"latitude" : "29.4897135",
+			"longitude" : "-98.7118103",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "HUEBNER OAKS",
+			"name" : "604",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "2105614469",
+			"formattedDistance" : "1,777.1 Miles",
+			"line1" : "11745 W INTERSTATE HWY 10W STE 615",
+			"line2" : "",
+			"town" : "SAN ANTONIO",
+			"city" : "TX",
+			"postalCode" : "78230",
+			"country" : "United States",
+			"latitude" : "29.5504423",
+			"longitude" : "-98.5812934",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "SHOPPES OF BENTON",
+			"name" : "745",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "5017945695",
+			"formattedDistance" : "1,777.3 Miles",
+			"line1" : "20410 INTERSTATE 30N",
+			"line2" : "",
+			"town" : "BENTON",
+			"city" : "AR",
+			"postalCode" : "72019",
+			"country" : "United States",
+			"latitude" : "34.6047345",
+			"longitude" : "-92.5403383",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/7/21":"12:00 PM - 6:00 PM",
+						"3/9/21":"10:00 AM - 9:00 PM",
+						"3/8/21":"10:00 AM - 9:00 PM",
+						"3/11/21":"10:00 AM - 9:00 PM",
+						"3/10/21":"10:00 AM - 9:00 PM",
+						"3/12/21":"10:00 AM - 9:00 PM",
+						"3/18/21":"10:00 AM - 9:00 PM",
+						"3/14/21":"12:00 PM - 6:00 PM",
+						"3/13/21":"10:00 AM - 9:00 PM",
+						"3/17/21":"10:00 AM - 9:00 PM",
+						"3/16/21":"10:00 AM - 9:00 PM",
+						"3/20/21":"10:00 AM - 9:00 PM",
+						"3/15/21":"10:00 AM - 9:00 PM",
+						"3/26/21":"10:00 AM - 9:00 PM",
+						"3/23/21":"10:00 AM - 9:00 PM",
+						"3/25/21":"10:00 AM - 9:00 PM",
+						"3/31/21":"10:00 AM - 9:00 PM",
+						"3/29/21":"10:00 AM - 9:00 PM",
+						"3/30/21":"10:00 AM - 9:00 PM",
+						"3/22/21":"10:00 AM - 9:00 PM",
+						"3/28/21":"12:00 PM - 6:00 PM",
+						"3/24/21":"10:00 AM - 9:00 PM",
+						"3/19/21":"10:00 AM - 9:00 PM",
+						"3/27/21":"10:00 AM - 9:00 PM",
+						"3/21/21":"12:00 PM - 6:00 PM"
+		},
+
+			"image" : ""
+		}
+	]}
+

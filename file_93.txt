@@ -1,0 +1,266 @@
+
+	{"total":500,"data":[
+	
+		{
+			"displayName" : "VOLUSIA MALL",
+			"name" : "279",
+			"centerType" : "MALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "3862523338",
+			"formattedDistance" : "2,531 Miles",
+			"line1" : "1700 W INTERNATIONAL SPEEDWAY BLVD",
+			"line2" : "",
+			"town" : "DAYTONA BEACH",
+			"city" : "FL",
+			"postalCode" : "32114",
+			"country" : "United States",
+			"latitude" : "29.196993",
+			"longitude" : "-81.0628091",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "WESTFIELD BRANDON",
+			"name" : "187",
+			"centerType" : "MALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "8136532260",
+			"formattedDistance" : "2,533.6 Miles",
+			"line1" : "314 BRANDON TOWN CENTER MALL",
+			"line2" : "",
+			"town" : "BRANDON",
+			"city" : "FL",
+			"postalCode" : "33511",
+			"country" : "United States",
+			"latitude" : "27.9352265",
+			"longitude" : "-82.3280939",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/8/21":"11:00 AM - 8:00 PM",
+						"3/15/21":"11:00 AM - 8:00 PM",
+						"3/16/21":"11:00 AM - 8:00 PM",
+						"3/17/21":"11:00 AM - 8:00 PM",
+						"3/22/21":"11:00 AM - 8:00 PM",
+						"3/23/21":"11:00 AM - 8:00 PM",
+						"3/9/21":"11:00 AM - 8:00 PM",
+						"3/11/21":"11:00 AM - 8:00 PM",
+						"3/31/21":"11:00 AM - 8:00 PM",
+						"3/30/21":"11:00 AM - 8:00 PM",
+						"3/25/21":"11:00 AM - 8:00 PM",
+						"4/1/21":"11:00 AM - 8:00 PM",
+						"3/18/21":"11:00 AM - 8:00 PM",
+						"4/5/21":"11:00 AM - 8:00 PM",
+						"4/14/21":"11:00 AM - 8:00 PM",
+						"4/13/21":"11:00 AM - 8:00 PM",
+						"3/29/21":"11:00 AM - 8:00 PM",
+						"3/10/21":"11:00 AM - 8:00 PM",
+						"4/8/21":"11:00 AM - 8:00 PM",
+						"4/19/21":"11:00 AM - 8:00 PM",
+						"4/6/21":"11:00 AM - 8:00 PM",
+						"4/7/21":"11:00 AM - 8:00 PM",
+						"4/21/21":"11:00 AM - 8:00 PM",
+						"3/24/21":"11:00 AM - 8:00 PM",
+						"4/12/21":"11:00 AM - 8:00 PM",
+						"4/27/21":"11:00 AM - 8:00 PM",
+						"4/28/21":"11:00 AM - 8:00 PM",
+						"4/15/21":"11:00 AM - 8:00 PM",
+						"4/22/21":"11:00 AM - 8:00 PM",
+						"4/20/21":"11:00 AM - 8:00 PM",
+						"4/26/21":"11:00 AM - 8:00 PM",
+						"4/29/21":"11:00 AM - 8:00 PM"
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "PAVILION AT PORT ORANGE",
+			"name" : "565",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "3867606440",
+			"formattedDistance" : "2,536.3 Miles",
+			"line1" : "5517 S WILLIAMSON BLVD STE 300",
+			"line2" : "",
+			"town" : "PORT ORANGE",
+			"city" : "FL",
+			"postalCode" : "32128",
+			"country" : "United States",
+			"latitude" : "29.1118687",
+			"longitude" : "-81.0337581",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/12/21":"10:00 AM - 8:00 PM",
+						"3/7/21":"10:00 AM - 6:00 PM",
+						"3/28/21":"10:00 AM - 6:00 PM",
+						"3/21/21":"10:00 AM - 6:00 PM",
+						"3/27/21":"10:00 AM - 8:00 PM",
+						"3/13/21":"10:00 AM - 8:00 PM",
+						"3/19/21":"10:00 AM - 8:00 PM",
+						"3/26/21":"10:00 AM - 8:00 PM",
+						"3/14/21":"10:00 AM - 6:00 PM",
+						"3/20/21":"10:00 AM - 8:00 PM"
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "SEMINOLE TOWNE CENTER",
+			"name" : "254",
+			"centerType" : "MALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "4073237411",
+			"formattedDistance" : "2,536.9 Miles",
+			"line1" : "104 TOWNE CENTER CIRCLE",
+			"line2" : "",
+			"town" : "SANFORD",
+			"city" : "FL",
+			"postalCode" : "32771",
+			"country" : "United States",
+			"latitude" : "28.8036122",
+			"longitude" : "-81.3387911",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/9/21":"11:00 AM - 7:00 PM",
+						"3/12/21":"11:00 AM - 8:00 PM",
+						"3/10/21":"11:00 AM - 7:00 PM",
+						"3/11/21":"11:00 AM - 7:00 PM",
+						"3/15/21":"11:00 AM - 7:00 PM",
+						"3/16/21":"11:00 AM - 7:00 PM",
+						"3/17/21":"11:00 AM - 7:00 PM",
+						"3/19/21":"11:00 AM - 8:00 PM",
+						"3/20/21":"11:00 AM - 8:00 PM",
+						"3/24/21":"11:00 AM - 7:00 PM",
+						"3/8/21":"11:00 AM - 7:00 PM",
+						"3/13/21":"11:00 AM - 8:00 PM",
+						"3/23/21":"11:00 AM - 7:00 PM",
+						"3/26/21":"11:00 AM - 8:00 PM",
+						"3/25/21":"11:00 AM - 7:00 PM",
+						"3/27/21":"11:00 AM - 8:00 PM",
+						"3/18/21":"11:00 AM - 7:00 PM",
+						"3/22/21":"11:00 AM - 7:00 PM"
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "LAKELAND SQUARE MALL",
+			"name" : "72",
+			"centerType" : "MALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "8638597088",
+			"formattedDistance" : "2,541.7 Miles",
+			"line1" : "3800 US HWY 98 NORTH STE 541",
+			"line2" : "",
+			"town" : "LAKELAND",
+			"city" : "FL",
+			"postalCode" : "33809",
+			"country" : "United States",
+			"latitude" : "28.0924418",
+			"longitude" : "-81.977728",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/9/21":"11:00 AM - 7:00 PM",
+						"3/10/21":"11:00 AM - 7:00 PM",
+						"3/8/21":"11:00 AM - 7:00 PM",
+						"3/12/21":"11:00 AM - 8:00 PM",
+						"3/13/21":"11:00 AM - 8:00 PM",
+						"3/17/21":"11:00 AM - 7:00 PM",
+						"3/19/21":"11:00 AM - 8:00 PM",
+						"3/18/21":"11:00 AM - 7:00 PM",
+						"3/15/21":"11:00 AM - 7:00 PM",
+						"3/16/21":"11:00 AM - 7:00 PM",
+						"3/11/21":"11:00 AM - 7:00 PM",
+						"3/27/21":"11:00 AM - 8:00 PM",
+						"3/23/21":"11:00 AM - 7:00 PM",
+						"3/24/21":"11:00 AM - 7:00 PM",
+						"3/30/21":"11:00 AM - 7:00 PM",
+						"3/20/21":"11:00 AM - 8:00 PM",
+						"3/31/21":"11:00 AM - 7:00 PM",
+						"3/26/21":"11:00 AM - 8:00 PM",
+						"3/25/21":"11:00 AM - 7:00 PM",
+						"3/22/21":"11:00 AM - 7:00 PM",
+						"3/29/21":"11:00 AM - 7:00 PM"
+		},
+
+			"image" : ""
+		}
+	]}
+

@@ -1,0 +1,210 @@
+
+	{"total":500,"data":[
+	
+		{
+			"displayName" : "CAROLINA PREMIUM OUTLETS",
+			"name" : "262",
+			"centerType" : "OUTLET",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "9199344222",
+			"formattedDistance" : "2,387.9 Miles",
+			"line1" : "1025 OUTLET CENTER DR STE 940",
+			"line2" : "",
+			"town" : "SMITHFIELD",
+			"city" : "NC",
+			"postalCode" : "27577",
+			"country" : "United States",
+			"latitude" : "35.5107585",
+			"longitude" : "-78.3122946",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 7:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/9/21":"11:00 AM - 7:00 PM",
+						"3/11/21":"11:00 AM - 7:00 PM",
+						"3/8/21":"11:00 AM - 7:00 PM",
+						"3/7/21":"12:00 PM - 6:00 PM",
+						"3/10/21":"11:00 AM - 7:00 PM",
+						"3/12/21":"10:00 AM - 8:00 PM",
+						"3/13/21":"10:00 AM - 8:00 PM",
+						"3/14/21":"12:00 PM - 6:00 PM",
+						"3/16/21":"11:00 AM - 7:00 PM",
+						"3/15/21":"11:00 AM - 7:00 PM",
+						"3/19/21":"10:00 AM - 8:00 PM",
+						"3/17/21":"11:00 AM - 7:00 PM",
+						"3/18/21":"11:00 AM - 7:00 PM",
+						"3/20/21":"10:00 AM - 8:00 PM",
+						"3/23/21":"11:00 AM - 7:00 PM",
+						"3/24/21":"11:00 AM - 7:00 PM",
+						"3/25/21":"11:00 AM - 7:00 PM",
+						"3/27/21":"10:00 AM - 8:00 PM",
+						"3/29/21":"11:00 AM - 7:00 PM",
+						"3/28/21":"12:00 PM - 6:00 PM",
+						"3/22/21":"11:00 AM - 7:00 PM",
+						"3/31/21":"11:00 AM - 7:00 PM",
+						"3/30/21":"11:00 AM - 7:00 PM",
+						"3/26/21":"10:00 AM - 8:00 PM",
+						"3/21/21":"12:00 PM - 6:00 PM"
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "VILLAGE @ POOLER PARKWAY",
+			"name" : "642",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "9127484935",
+			"formattedDistance" : "2,390.9 Miles",
+			"line1" : "252 POOLER PKWY.",
+			"line2" : "",
+			"town" : "POOLER",
+			"city" : "GA",
+			"postalCode" : "31322",
+			"country" : "United States",
+			"latitude" : "32.1420807",
+			"longitude" : "-81.2500333",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "TANGER OUTLETS SAVANNAH",
+			"name" : "644",
+			"centerType" : "OUTLET",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "9124501257",
+			"formattedDistance" : "2,391.5 Miles",
+			"line1" : "200 TANGER OUTLET BLVD  SUITE 431",
+			"line2" : "",
+			"town" : "POOLER",
+			"city" : "GA",
+			"postalCode" : "31322",
+			"country" : "United States",
+			"latitude" : "32.1358013",
+			"longitude" : "-81.2424374",
+			
+				"openings":
+		{
+		
+						"Sun":"10:00 AM - 7:00 PM",
+						"Mon":"9:00 AM - 9:00 PM",
+						"Tue":"9:00 AM - 9:00 PM",
+						"Wed":"9:00 AM - 9:00 PM",
+						"Thu":"9:00 AM - 9:00 PM",
+						"Fri":"9:00 AM - 9:00 PM",
+						"Sat":"9:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "TANGER OUTLETS",
+			"name" : "3117",
+			"centerType" : "OUTLET",
+			"hideStore" : "true",
+			"url" : "",
+			"phone" : "9124501250",
+			"formattedDistance" : "2,391.6 Miles",
+			"line1" : "200 TANGER OUTLET BLVD. SUITE 645",
+			"line2" : "",
+			"town" : "POOLER",
+			"city" : "GA",
+			"postalCode" : "31322",
+			"country" : "United States",
+			"latitude" : "32.1332915",
+			"longitude" : "-81.2434311",
+			
+				"openings":
+		{
+		
+						"Sun":"10:00 AM - 7:00 PM",
+						"Mon":"9:00 AM - 9:00 PM",
+						"Tue":"9:00 AM - 9:00 PM",
+						"Wed":"9:00 AM - 9:00 PM",
+						"Thu":"9:00 AM - 9:00 PM",
+						"Fri":"9:00 AM - 9:00 PM",
+						"Sat":"9:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "MONTICELLO MARKETPLACE",
+			"name" : "323",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "7572599446",
+			"formattedDistance" : "2,393.4 Miles",
+			"line1" : "4640-4 MONTICELLO AVE.",
+			"line2" : "",
+			"town" : "WILLIAMSBURG",
+			"city" : "VA",
+			"postalCode" : "23188",
+			"country" : "United States",
+			"latitude" : "37.2725827",
+			"longitude" : "-76.7596161",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		}
+	]}
+

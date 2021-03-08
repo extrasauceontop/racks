@@ -1,0 +1,224 @@
+
+	{"total":500,"data":[
+	
+		{
+			"displayName" : "FAIRVIEW CORNERS",
+			"name" : "29",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "8642282000",
+			"formattedDistance" : "2,237.4 Miles",
+			"line1" : "357 HARRISON BRIDGE RD",
+			"line2" : "",
+			"town" : "SIMPSONVILLE",
+			"city" : "SC",
+			"postalCode" : "29680",
+			"country" : "United States",
+			"latitude" : "34.7031518",
+			"longitude" : "-82.2569929",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "WESTGATE CROSSING SHOPPING CENTER",
+			"name" : "75",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "8645878605",
+			"formattedDistance" : "2,239.7 Miles",
+			"line1" : "660 SPARTAN BLVD #100",
+			"line2" : "",
+			"town" : "SPARTANBURG",
+			"city" : "SC",
+			"postalCode" : "29301",
+			"country" : "United States",
+			"latitude" : "34.94325985",
+			"longitude" : "-81.99700754",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "SILVER SANDS OUTLET",
+			"name" : "356",
+			"centerType" : "OUTLET",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "8502693225",
+			"formattedDistance" : "2,241.1 Miles",
+			"line1" : "10406 EMERALD COAST PKWY. STE. 86A",
+			"line2" : "",
+			"town" : "DESTIN",
+			"city" : "FL",
+			"postalCode" : "32550",
+			"country" : "United States",
+			"latitude" : "30.378252",
+			"longitude" : "-86.3483065",
+			
+				"openings":
+		{
+		
+						"Sun":"10:00 AM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/10/21":"11:00 AM - 7:00 PM",
+						"3/11/21":"11:00 AM - 7:00 PM",
+						"3/12/21":"10:00 AM - 8:00 PM",
+						"3/9/21":"11:00 AM - 7:00 PM",
+						"3/7/21":"12:00 PM - 6:00 PM",
+						"3/13/21":"10:00 AM - 8:00 PM",
+						"3/15/21":"11:00 AM - 7:00 PM",
+						"3/18/21":"11:00 AM - 7:00 PM",
+						"3/16/21":"11:00 AM - 7:00 PM",
+						"3/20/21":"10:00 AM - 8:00 PM",
+						"3/14/21":"12:00 PM - 6:00 PM",
+						"3/19/21":"10:00 AM - 8:00 PM",
+						"3/22/21":"11:00 AM - 7:00 PM",
+						"3/17/21":"11:00 AM - 7:00 PM",
+						"3/24/21":"11:00 AM - 7:00 PM",
+						"3/29/21":"11:00 AM - 7:00 PM",
+						"3/26/21":"10:00 AM - 8:00 PM",
+						"3/27/21":"10:00 AM - 8:00 PM",
+						"3/23/21":"11:00 AM - 7:00 PM",
+						"3/8/21":"11:00 AM - 7:00 PM",
+						"3/28/21":"12:00 PM - 6:00 PM",
+						"3/21/21":"12:00 PM - 6:00 PM",
+						"3/31/21":"11:00 AM - 7:00 PM",
+						"3/25/21":"11:00 AM - 7:00 PM",
+						"3/30/21":"11:00 AM - 7:00 PM"
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "WIREGRASS COMMONS MALL",
+			"name" : "240",
+			"centerType" : "MALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "3346711318",
+			"formattedDistance" : "2,241.8 Miles",
+			"line1" : "900 COMMONS DRIVE STE 812",
+			"line2" : "",
+			"town" : "DOTHAN",
+			"city" : "AL",
+			"postalCode" : "36303",
+			"country" : "United States",
+			"latitude" : "31.2540367",
+			"longitude" : "-85.4243382",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/8/21":"11:00 AM - 7:00 PM",
+						"3/11/21":"11:00 AM - 7:00 PM",
+						"3/20/21":"11:00 AM - 8:00 PM",
+						"3/29/21":"11:00 AM - 7:00 PM",
+						"3/19/21":"11:00 AM - 8:00 PM",
+						"3/30/21":"11:00 AM - 7:00 PM",
+						"3/10/21":"11:00 AM - 7:00 PM",
+						"3/31/21":"11:00 AM - 7:00 PM",
+						"3/7/21":"12:00 PM - 6:00 PM",
+						"3/28/21":"12:00 PM - 6:00 PM",
+						"4/3/21":"11:00 AM - 8:00 PM",
+						"4/2/21":"11:00 AM - 8:00 PM",
+						"4/1/21":"11:00 AM - 7:00 PM",
+						"3/9/21":"11:00 AM - 7:00 PM"
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "VALLEY CORNERS SHOPPING CENTER",
+			"name" : "526",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "8283041041",
+			"formattedDistance" : "2,241.9 Miles",
+			"line1" : "2183 US HIGHWAY 70 SE",
+			"line2" : "",
+			"town" : "HICKORY",
+			"city" : "NC",
+			"postalCode" : "28602",
+			"country" : "United States",
+			"latitude" : "35.7047363",
+			"longitude" : "-81.2978563",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		}
+	]}
+

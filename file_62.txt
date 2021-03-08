@@ -1,0 +1,185 @@
+
+	{"total":500,"data":[
+	
+		{
+			"displayName" : "AFTON RIDGE",
+			"name" : "499",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "7047864374",
+			"formattedDistance" : "2,281.8 Miles",
+			"line1" : "6230 BAYFIELD PKWY STE 600",
+			"line2" : "",
+			"town" : "CONCORD",
+			"city" : "NC",
+			"postalCode" : "28027",
+			"country" : "United States",
+			"latitude" : "35.416085",
+			"longitude" : "-80.6794823",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "SOUTHSIDE SQUARE",
+			"name" : "488",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "3369932501",
+			"formattedDistance" : "2,281.8 Miles",
+			"line1" : "1022-C SOUTH MAIN ST",
+			"line2" : "",
+			"town" : "KERNERSVILLE",
+			"city" : "NC",
+			"postalCode" : "27284",
+			"country" : "United States",
+			"latitude" : "36.1094779",
+			"longitude" : "-80.0979251",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "SALISBURY",
+			"name" : "201",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "7046470576",
+			"formattedDistance" : "2,282.8 Miles",
+			"line1" : "230 FAITH ROAD",
+			"line2" : "",
+			"town" : "SALISBURY",
+			"city" : "NC",
+			"postalCode" : "28146",
+			"country" : "United States",
+			"latitude" : "35.6526152",
+			"longitude" : "-80.4578062",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "BELGATE SHOPPING CENTER",
+			"name" : "791",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "7045980709",
+			"formattedDistance" : "2,283 Miles",
+			"line1" : "8411 IKEA BLVD. STE B",
+			"line2" : "",
+			"town" : "CHARLOTTE",
+			"city" : "NC",
+			"postalCode" : "28262",
+			"country" : "United States",
+			"latitude" : "35.290819",
+			"longitude" : "-80.761618",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "BARRACKS ROAD SHOPPING CENTER",
+			"name" : "181",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "4342938613",
+			"formattedDistance" : "2,284.1 Miles",
+			"line1" : "1105 EMMETT ST",
+			"line2" : "",
+			"town" : "CHARLOTTESVILLE",
+			"city" : "VA",
+			"postalCode" : "22903",
+			"country" : "United States",
+			"latitude" : "38.0516908",
+			"longitude" : "-78.5017226",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		}
+	]}
+

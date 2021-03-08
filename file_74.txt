@@ -1,0 +1,185 @@
+
+	{"total":500,"data":[
+	
+		{
+			"displayName" : "ABERDEEN COMMONS",
+			"name" : "18",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "9102460055",
+			"formattedDistance" : "2,350.4 Miles",
+			"line1" : "11088 N US HIGHWAY 15 501 UNIT 400",
+			"line2" : "",
+			"town" : "ABERDEEN",
+			"city" : "NC",
+			"postalCode" : "28315",
+			"country" : "United States",
+			"latitude" : "35.1569478",
+			"longitude" : "-79.4200667",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "BRIER CREEK COMMONS",
+			"name" : "52",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "9198062839",
+			"formattedDistance" : "2,350.6 Miles",
+			"line1" : "8221 BRIER CREEK PKWY",
+			"line2" : "",
+			"town" : "RALEIGH",
+			"city" : "NC",
+			"postalCode" : "27617",
+			"country" : "United States",
+			"latitude" : "35.9092212",
+			"longitude" : "-78.7817594",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "SHOPS AT CAMERON PLACE",
+			"name" : "670",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "9197189030",
+			"formattedDistance" : "2,352 Miles",
+			"line1" : "3044 S HORNER BLVD",
+			"line2" : "",
+			"town" : "SANFORD",
+			"city" : "NC",
+			"postalCode" : "27332",
+			"country" : "United States",
+			"latitude" : "35.4493565",
+			"longitude" : "-79.1370223",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "PARK WEST VILLAGE",
+			"name" : "618",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "9194813931",
+			"formattedDistance" : "2,353.1 Miles",
+			"line1" : "3017 MARKET CENTER DRIVE",
+			"line2" : "",
+			"town" : "MORRISVILLE",
+			"city" : "NC",
+			"postalCode" : "27560",
+			"country" : "United States",
+			"latitude" : "35.8048464",
+			"longitude" : "-78.8165297",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "VALDOSTA CORNERS CENTER",
+			"name" : "263",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "2292590220",
+			"formattedDistance" : "2,354.4 Miles",
+			"line1" : "1200E NORTH ST. AUGUSTINE RD.",
+			"line2" : "",
+			"town" : "VALDOSTA",
+			"city" : "GA",
+			"postalCode" : "31601",
+			"country" : "United States",
+			"latitude" : "30.841554",
+			"longitude" : "-83.324849",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		}
+	]}
+

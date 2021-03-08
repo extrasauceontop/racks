@@ -1,0 +1,235 @@
+
+	{"total":500,"data":[
+	
+		{
+			"displayName" : "ROCKWALL MARKET CENTER",
+			"name" : "348",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "9727223747",
+			"formattedDistance" : "1,689 Miles",
+			"line1" : "2833 MARKET CENTER DR",
+			"line2" : "",
+			"town" : "ROCKWALL",
+			"city" : "TX",
+			"postalCode" : "75032",
+			"country" : "United States",
+			"latitude" : "32.8958183",
+			"longitude" : "-96.4624568",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "PLAZA DEL SOL",
+			"name" : "472",
+			"centerType" : "MALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "8307742907",
+			"formattedDistance" : "1,700.8 Miles",
+			"line1" : "2205 VETERANS BLVD STE G10-11",
+			"line2" : "",
+			"town" : "DEL RIO",
+			"city" : "TX",
+			"postalCode" : "78840",
+			"country" : "United States",
+			"latitude" : "29.3903817",
+			"longitude" : "-100.9035012",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 7:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "CROSSROADS AT TERRELL",
+			"name" : "785",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "9725510711",
+			"formattedDistance" : "1,703.3 Miles",
+			"line1" : "650 AMERICAN WAY",
+			"line2" : "",
+			"town" : "TERRELL",
+			"city" : "TX",
+			"postalCode" : "75160",
+			"country" : "United States",
+			"latitude" : "32.717505",
+			"longitude" : "-96.32756",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "GURNEE MILLS",
+			"name" : "3092",
+			"centerType" : "OUTLET",
+			"hideStore" : "true",
+			"url" : "",
+			"phone" : "8478551167",
+			"formattedDistance" : "1,703.7 Miles",
+			"line1" : "6170 GRAND AVE STE 677",
+			"line2" : "",
+			"town" : "GURNEE",
+			"city" : "IL",
+			"postalCode" : "60031",
+			"country" : "United States",
+			"latitude" : "42.3884267",
+			"longitude" : "-87.955688",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 7:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/7/21":"12:00 PM - 6:00 PM",
+						"3/8/21":"11:00 AM - 7:00 PM",
+						"3/13/21":"10:00 AM - 8:00 PM",
+						"3/10/21":"11:00 AM - 7:00 PM",
+						"3/15/21":"11:00 AM - 7:00 PM",
+						"3/11/21":"11:00 AM - 7:00 PM",
+						"3/17/21":"11:00 AM - 7:00 PM",
+						"3/16/21":"11:00 AM - 7:00 PM",
+						"3/9/21":"11:00 AM - 7:00 PM",
+						"3/20/21":"10:00 AM - 8:00 PM",
+						"3/14/21":"12:00 PM - 6:00 PM",
+						"3/23/21":"11:00 AM - 7:00 PM",
+						"3/12/21":"10:00 AM - 8:00 PM",
+						"3/22/21":"11:00 AM - 7:00 PM",
+						"3/25/21":"11:00 AM - 7:00 PM",
+						"3/26/21":"10:00 AM - 8:00 PM",
+						"3/24/21":"11:00 AM - 7:00 PM",
+						"3/19/21":"10:00 AM - 8:00 PM",
+						"3/27/21":"10:00 AM - 8:00 PM",
+						"3/29/21":"11:00 AM - 7:00 PM",
+						"3/18/21":"11:00 AM - 7:00 PM",
+						"3/31/21":"11:00 AM - 7:00 PM",
+						"3/28/21":"12:00 PM - 6:00 PM",
+						"3/30/21":"11:00 AM - 7:00 PM",
+						"3/21/21":"12:00 PM - 6:00 PM"
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "HOMETOWN COMMONS",
+			"name" : "573",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "8704922162",
+			"formattedDistance" : "1,711.9 Miles",
+			"line1" : "1072 HOMETOWN COMMONS",
+			"line2" : "",
+			"town" : "MOUNTAIN HOME",
+			"city" : "AR",
+			"postalCode" : "72653",
+			"country" : "United States",
+			"latitude" : "36.3577041",
+			"longitude" : "-92.3353347",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"9:00 AM - 9:00 PM",
+						"Tue":"9:00 AM - 9:00 PM",
+						"Wed":"9:00 AM - 9:00 PM",
+						"Thu":"9:00 AM - 9:00 PM",
+						"Fri":"9:00 AM - 9:00 PM",
+						"Sat":"9:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/8/21":"10:00 AM - 8:00 PM",
+						"3/7/21":"12:00 PM - 6:00 PM",
+						"3/9/21":"10:00 AM - 8:00 PM",
+						"3/12/21":"10:00 AM - 8:00 PM",
+						"3/14/21":"12:00 PM - 6:00 PM",
+						"3/13/21":"10:00 AM - 8:00 PM",
+						"3/15/21":"10:00 AM - 8:00 PM",
+						"3/11/21":"10:00 AM - 8:00 PM",
+						"3/10/21":"10:00 AM - 8:00 PM",
+						"3/16/21":"10:00 AM - 8:00 PM",
+						"3/18/21":"10:00 AM - 8:00 PM",
+						"3/20/21":"10:00 AM - 8:00 PM",
+						"3/19/21":"10:00 AM - 8:00 PM",
+						"3/17/21":"10:00 AM - 8:00 PM",
+						"3/21/21":"12:00 PM - 6:00 PM",
+						"3/22/21":"10:00 AM - 8:00 PM",
+						"3/23/21":"10:00 AM - 8:00 PM",
+						"3/24/21":"10:00 AM - 8:00 PM",
+						"3/28/21":"12:00 PM - 6:00 PM",
+						"3/27/21":"10:00 AM - 8:00 PM",
+						"3/26/21":"10:00 AM - 8:00 PM",
+						"3/29/21":"10:00 AM - 8:00 PM",
+						"3/25/21":"10:00 AM - 8:00 PM",
+						"3/30/21":"10:00 AM - 8:00 PM",
+						"3/31/21":"10:00 AM - 8:00 PM"
+		},
+
+			"image" : ""
+		}
+	]}
+

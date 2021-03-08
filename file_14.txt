@@ -1,0 +1,185 @@
+
+	{"total":500,"data":[
+	
+		{
+			"displayName" : "WEATHERFORD MARKETPLACE",
+			"name" : "431",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "8175999860",
+			"formattedDistance" : "1,643.3 Miles",
+			"line1" : "138 E INTERSTATE 20 STE 180",
+			"line2" : "",
+			"town" : "WEATHERFORD",
+			"city" : "TX",
+			"postalCode" : "76087",
+			"country" : "United States",
+			"latitude" : "32.7279161",
+			"longitude" : "-97.7847514",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "TANGER OUTLET CENTER - FORT WORTH",
+			"name" : "3130",
+			"centerType" : "OUTLET",
+			"hideStore" : "true",
+			"url" : "",
+			"phone" : "6828311458",
+			"formattedDistance" : "1,649.1 Miles",
+			"line1" : "15845 NORTH FREEWAY SUITE 600",
+			"line2" : "",
+			"town" : "FORT WORTH",
+			"city" : "TX",
+			"postalCode" : "76177",
+			"country" : "United States",
+			"latitude" : "33.0222995",
+			"longitude" : "-97.2834531",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 7:00 PM",
+						"Mon":"10:00 AM - 7:00 PM",
+						"Tue":"10:00 AM - 7:00 PM",
+						"Wed":"10:00 AM - 7:00 PM",
+						"Thu":"10:00 AM - 7:00 PM",
+						"Fri":"10:00 AM - 7:00 PM",
+						"Sat":"10:00 AM - 7:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "TANGER OUTLET CENTER - FORT WORTH",
+			"name" : "753",
+			"centerType" : "OUTLET",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "6828311430",
+			"formattedDistance" : "1,649.3 Miles",
+			"line1" : "15829 NORTH FREEWAY SUITE 130",
+			"line2" : "",
+			"town" : "FORT WORTH",
+			"city" : "TX",
+			"postalCode" : "76177",
+			"country" : "United States",
+			"latitude" : "33.0213272",
+			"longitude" : "-97.2805444",
+			
+				"openings":
+		{
+		
+						"Sun":"10:00 AM - 7:00 PM",
+						"Mon":"9:00 AM - 9:00 PM",
+						"Tue":"9:00 AM - 9:00 PM",
+						"Wed":"9:00 AM - 9:00 PM",
+						"Thu":"9:00 AM - 9:00 PM",
+						"Fri":"9:00 AM - 9:00 PM",
+						"Sat":"9:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "ALLIANCE TOWN CENTER",
+			"name" : "519",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "8177500400",
+			"formattedDistance" : "1,653.3 Miles",
+			"line1" : "9520 SAGE MEADOW TRAIL",
+			"line2" : "",
+			"town" : "FORT WORTH",
+			"city" : "TX",
+			"postalCode" : "76177",
+			"country" : "United States",
+			"latitude" : "32.9112194",
+			"longitude" : "-97.314154",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "LAKE WORTH MARKETPLACE",
+			"name" : "498",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "8172375338",
+			"formattedDistance" : "1,653.9 Miles",
+			"line1" : "6046 AZLE AVE STE 200",
+			"line2" : "",
+			"town" : "LAKE WORTH",
+			"city" : "TX",
+			"postalCode" : "76135",
+			"country" : "United States",
+			"latitude" : "32.8159698",
+			"longitude" : "-97.415914",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		}
+	]}
+

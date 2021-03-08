@@ -1,0 +1,185 @@
+
+	{"total":500,"data":[
+	
+		{
+			"displayName" : "TANGER OUTLETS LANCASTER",
+			"name" : "707",
+			"centerType" : "OUTLET",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "7172913270",
+			"formattedDistance" : "2,322.3 Miles",
+			"line1" : "1270 STANLEY K. TANGER BLVD",
+			"line2" : "",
+			"town" : "LANCASTER",
+			"city" : "PA",
+			"postalCode" : "17602",
+			"country" : "United States",
+			"latitude" : "40.0242834",
+			"longitude" : "-76.2199833",
+			
+				"openings":
+		{
+		
+						"Sun":"10:00 AM - 7:00 PM",
+						"Mon":"9:00 AM - 9:00 PM",
+						"Tue":"9:00 AM - 9:00 PM",
+						"Wed":"9:00 AM - 9:00 PM",
+						"Thu":"9:00 AM - 9:00 PM",
+						"Fri":"9:00 AM - 9:00 PM",
+						"Sat":"9:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "ROCKVALE OUTLET CENTER",
+			"name" : "824",
+			"centerType" : "OUTLET",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "7175097715",
+			"formattedDistance" : "2,323.6 Miles",
+			"line1" : "35 S WILLOWDALE DR STE706",
+			"line2" : "",
+			"town" : "LANCASTER",
+			"city" : "PA",
+			"postalCode" : "17602",
+			"country" : "United States",
+			"latitude" : "40.0211734",
+			"longitude" : "-76.1945845",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "COSNER'S CORNER",
+			"name" : "482",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "5407106907",
+			"formattedDistance" : "2,324.2 Miles",
+			"line1" : "9757 JEFFERSON DAVIS HIGHWAY",
+			"line2" : "",
+			"town" : "FREDERICKSBURG",
+			"city" : "VA",
+			"postalCode" : "22407",
+			"country" : "United States",
+			"latitude" : "38.2284547",
+			"longitude" : "-77.5044593",
+			
+				"openings":
+		{
+		
+						"Sun":"10:00 AM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "VILLAGE AT SANDHILL",
+			"name" : "610",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "8037889228",
+			"formattedDistance" : "2,324.3 Miles",
+			"line1" : "661-11 PROMENADE PLACE",
+			"line2" : "",
+			"town" : "COLUMBIA",
+			"city" : "SC",
+			"postalCode" : "29229",
+			"country" : "United States",
+			"latitude" : "34.128249",
+			"longitude" : "-80.8795032",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "TOWSON TOWN CENTER STE 2265",
+			"name" : "626",
+			"centerType" : "MALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "4104941473",
+			"formattedDistance" : "2,325.5 Miles",
+			"line1" : "825 DULANEY VALLEY RD",
+			"line2" : "",
+			"town" : "TOWSON",
+			"city" : "MD",
+			"postalCode" : "21204",
+			"country" : "United States",
+			"latitude" : "39.4042658",
+			"longitude" : "-76.5990278",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		}
+	]}
+

@@ -1,0 +1,211 @@
+
+	{"total":500,"data":[
+	
+		{
+			"displayName" : "GERMANTOWN VILLAGE SQUARE",
+			"name" : "167",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "9017542565",
+			"formattedDistance" : "1,877.8 Miles",
+			"line1" : "7690 POPLAR AVE",
+			"line2" : "",
+			"town" : "GERMANTOWN",
+			"city" : "TN",
+			"postalCode" : "38138",
+			"country" : "United States",
+			"latitude" : "35.0927064",
+			"longitude" : "-89.8066577",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "WEDGEWOOD COMMONS",
+			"name" : "624",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "6628907001",
+			"formattedDistance" : "1,879 Miles",
+			"line1" : "5060 GOODMAN ROAD",
+			"line2" : "",
+			"town" : "OLIVE BRANCH",
+			"city" : "MS",
+			"postalCode" : "38654",
+			"country" : "United States",
+			"latitude" : "34.9651487",
+			"longitude" : "-89.8989401",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "THE MARKET CENTER AT ALIANA",
+			"name" : "773",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "2812770635",
+			"formattedDistance" : "1,881.2 Miles",
+			"line1" : "10193 W GRAND PKWY S STE 107",
+			"line2" : "",
+			"town" : "RICHMOND",
+			"city" : "TX",
+			"postalCode" : "77407",
+			"country" : "United States",
+			"latitude" : "29.6606857",
+			"longitude" : "-95.7365172",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "CARRIAGE CROSSING",
+			"name" : "3123",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "9018613927",
+			"formattedDistance" : "1,884.5 Miles",
+			"line1" : "4600 MERCHANTS PARK CIR SPACE 121",
+			"line2" : "",
+			"town" : "COLLIERVILLE",
+			"city" : "TN",
+			"postalCode" : "38017",
+			"country" : "United States",
+			"latitude" : "35.0234543",
+			"longitude" : "-89.7206564",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/8/21":"10:00 AM - 8:00 PM",
+						"3/12/21":"10:00 AM - 8:00 PM",
+						"3/7/21":"12:00 PM - 6:00 PM",
+						"3/9/21":"10:00 AM - 8:00 PM",
+						"3/17/21":"10:00 AM - 8:00 PM",
+						"3/11/21":"10:00 AM - 8:00 PM",
+						"3/19/21":"10:00 AM - 8:00 PM",
+						"3/10/21":"10:00 AM - 8:00 PM",
+						"3/20/21":"10:00 AM - 8:00 PM",
+						"3/16/21":"10:00 AM - 8:00 PM",
+						"3/14/21":"12:00 PM - 6:00 PM",
+						"3/18/21":"10:00 AM - 8:00 PM",
+						"3/13/21":"10:00 AM - 8:00 PM",
+						"3/22/21":"10:00 AM - 8:00 PM",
+						"3/23/21":"10:00 AM - 8:00 PM",
+						"3/15/21":"10:00 AM - 8:00 PM",
+						"3/29/21":"10:00 AM - 8:00 PM",
+						"3/28/21":"12:00 PM - 6:00 PM",
+						"3/21/21":"12:00 PM - 6:00 PM",
+						"3/30/21":"10:00 AM - 8:00 PM",
+						"3/27/21":"10:00 AM - 8:00 PM",
+						"4/1/21":"10:00 AM - 8:00 PM",
+						"3/31/21":"10:00 AM - 8:00 PM",
+						"3/24/21":"10:00 AM - 8:00 PM",
+						"3/26/21":"10:00 AM - 8:00 PM",
+						"3/25/21":"10:00 AM - 8:00 PM"
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "BRAZOS TOWN CENTER",
+			"name" : "535",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "2812325217",
+			"formattedDistance" : "1,886.9 Miles",
+			"line1" : "24001 BRAZOS TOWN CROSSING",
+			"line2" : "",
+			"town" : "ROSENBERG",
+			"city" : "TX",
+			"postalCode" : "77471",
+			"country" : "United States",
+			"latitude" : "29.542746",
+			"longitude" : "-95.748368",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		}
+	]}
+

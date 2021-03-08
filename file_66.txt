@@ -1,0 +1,213 @@
+
+	{"total":500,"data":[
+	
+		{
+			"displayName" : "FOUR SEASONS TOWN CENTRE",
+			"name" : "735",
+			"centerType" : "MALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "3365479357",
+			"formattedDistance" : "2,296.6 Miles",
+			"line1" : "410 FOUR SEASONS BLVD STE130",
+			"line2" : "",
+			"town" : "GREENSBORO",
+			"city" : "NC",
+			"postalCode" : "27427",
+			"country" : "United States",
+			"latitude" : "36.0390162",
+			"longitude" : "-79.8376603",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/14/21":"12:00 PM - 6:00 PM",
+						"3/10/21":"11:00 AM - 7:00 PM",
+						"3/13/21":"11:00 AM - 7:00 PM",
+						"3/9/21":"11:00 AM - 7:00 PM",
+						"3/16/21":"11:00 AM - 7:00 PM",
+						"3/15/21":"11:00 AM - 7:00 PM",
+						"3/11/21":"11:00 AM - 7:00 PM",
+						"3/21/21":"12:00 PM - 6:00 PM",
+						"3/24/21":"11:00 AM - 7:00 PM",
+						"3/12/21":"11:00 AM - 7:00 PM",
+						"3/17/21":"11:00 AM - 7:00 PM",
+						"3/27/21":"11:00 AM - 7:00 PM",
+						"3/25/21":"11:00 AM - 7:00 PM",
+						"3/8/21":"11:00 AM - 7:00 PM",
+						"3/29/21":"11:00 AM - 7:00 PM",
+						"3/23/21":"11:00 AM - 7:00 PM",
+						"3/7/21":"12:00 PM - 6:00 PM",
+						"3/26/21":"11:00 AM - 7:00 PM",
+						"3/19/21":"11:00 AM - 7:00 PM",
+						"3/22/21":"11:00 AM - 7:00 PM",
+						"3/20/21":"11:00 AM - 7:00 PM",
+						"4/2/21":"11:00 AM - 7:00 PM",
+						"3/28/21":"12:00 PM - 6:00 PM",
+						"4/3/21":"11:00 AM - 7:00 PM",
+						"3/31/21":"11:00 AM - 7:00 PM",
+						"3/30/21":"11:00 AM - 7:00 PM",
+						"3/18/21":"11:00 AM - 7:00 PM",
+						"4/1/21":"11:00 AM - 7:00 PM"
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "ASH BROOK COMMONS",
+			"name" : "3057",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "true",
+			"url" : "",
+			"phone" : "5712233289",
+			"formattedDistance" : "2,296.8 Miles",
+			"line1" : "20020 ASH BROOK COMMONS PLAZA 155",
+			"line2" : "",
+			"town" : "ASHBURN",
+			"city" : "VA",
+			"postalCode" : "20147",
+			"country" : "United States",
+			"latitude" : "39.0617662",
+			"longitude" : "-77.4685838",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 7:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "THE VILLAGE COMMONS",
+			"name" : "593",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "7048433800",
+			"formattedDistance" : "2,297.5 Miles",
+			"line1" : "6340 WEDDINGTON RD STE B1",
+			"line2" : "",
+			"town" : "WESLEY CHAPEL",
+			"city" : "NC",
+			"postalCode" : "28104",
+			"country" : "United States",
+			"latitude" : "35.000034",
+			"longitude" : "-80.6962387",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "CLARKSBURG PREMIUM OUTLETS",
+			"name" : "757",
+			"centerType" : "OUTLET",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "3019164520",
+			"formattedDistance" : "2,299.6 Miles",
+			"line1" : "22705 CLARKSBURG RD SUITE 724",
+			"line2" : "",
+			"town" : "CLARKSBURG",
+			"city" : "MD",
+			"postalCode" : "20871",
+			"country" : "United States",
+			"latitude" : "39.2281865",
+			"longitude" : "-77.2857697",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"11:00 AM - 7:00 PM",
+						"Tue":"11:00 AM - 7:00 PM",
+						"Wed":"11:00 AM - 7:00 PM",
+						"Thu":"11:00 AM - 7:00 PM",
+						"Fri":"10:00 AM - 8:00 PM",
+						"Sat":"10:00 AM - 8:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "DULLES TOWN CROSSING",
+			"name" : "222",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "7034213411",
+			"formattedDistance" : "2,300.2 Miles",
+			"line1" : "45575 DULLES EASTERN PLZ STE 139",
+			"line2" : "",
+			"town" : "STERLING",
+			"city" : "VA",
+			"postalCode" : "20166",
+			"country" : "United States",
+			"latitude" : "39.0244631",
+			"longitude" : "-77.4223694",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		}
+	]}
+

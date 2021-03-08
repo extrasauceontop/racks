@@ -1,0 +1,210 @@
+
+	{"total":500,"data":[
+	
+		{
+			"displayName" : "RICHMOND CENTRE",
+			"name" : "553",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "8596238454",
+			"formattedDistance" : "2,024.5 Miles",
+			"line1" : "2169 LANTERN RIDGE DR SP G",
+			"line2" : "",
+			"town" : "RICHMOND",
+			"city" : "KY",
+			"postalCode" : "40475",
+			"country" : "United States",
+			"latitude" : "37.7395161",
+			"longitude" : "-84.3273827",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "JACKSON PLAZA",
+			"name" : "326",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "9315256414",
+			"formattedDistance" : "2,029.5 Miles",
+			"line1" : "377 W JACKSON ST STE 7D",
+			"line2" : "",
+			"town" : "COOKEVILLE",
+			"city" : "TN",
+			"postalCode" : "38501",
+			"country" : "United States",
+			"latitude" : "36.1570802",
+			"longitude" : "-85.5180926",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "THE SHOPPES OF MADISON",
+			"name" : "628",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "2567219919",
+			"formattedDistance" : "2,029.8 Miles",
+			"line1" : "8201 HWY 72 WEST SUITE B",
+			"line2" : "",
+			"town" : "MADISON",
+			"city" : "AL",
+			"postalCode" : "35758",
+			"country" : "United States",
+			"latitude" : "34.7490517",
+			"longitude" : "-86.7552293",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "GRAND CENTRAL PLACE",
+			"name" : "715",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "6066769821",
+			"formattedDistance" : "2,036.2 Miles",
+			"line1" : "2835 S HWY 27",
+			"line2" : "",
+			"town" : "SOMERSET",
+			"city" : "KY",
+			"postalCode" : "42503",
+			"country" : "United States",
+			"latitude" : "37.0519062",
+			"longitude" : "-84.6281272",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "TANGER OUTLET CENTER",
+			"name" : "334",
+			"centerType" : "OUTLET",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "2256474347",
+			"formattedDistance" : "2,049.8 Miles",
+			"line1" : "2100 TANGER BLVD. STE 103",
+			"line2" : "",
+			"town" : "GONZALES",
+			"city" : "LA",
+			"postalCode" : "70737",
+			"country" : "United States",
+			"latitude" : "30.2137519",
+			"longitude" : "-90.9533328",
+			
+				"openings":
+		{
+		
+						"Sun":"10:00 AM - 7:00 PM",
+						"Mon":"9:00 AM - 9:00 PM",
+						"Tue":"9:00 AM - 9:00 PM",
+						"Wed":"9:00 AM - 9:00 PM",
+						"Thu":"9:00 AM - 9:00 PM",
+						"Fri":"9:00 AM - 9:00 PM",
+						"Sat":"9:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/9/21":"10:00 AM - 8:00 PM",
+						"3/7/21":"11:00 AM - 7:00 PM",
+						"3/10/21":"10:00 AM - 8:00 PM",
+						"3/11/21":"10:00 AM - 8:00 PM",
+						"3/8/21":"10:00 AM - 8:00 PM",
+						"3/12/21":"10:00 AM - 8:00 PM",
+						"3/20/21":"10:00 AM - 7:00 PM",
+						"3/16/21":"10:00 AM - 7:00 PM",
+						"3/17/21":"10:00 AM - 7:00 PM",
+						"3/21/21":"11:00 AM - 7:00 PM",
+						"3/18/21":"10:00 AM - 7:00 PM",
+						"3/15/21":"10:00 AM - 7:00 PM",
+						"3/22/21":"10:00 AM - 8:00 PM",
+						"3/19/21":"10:00 AM - 7:00 PM",
+						"3/26/21":"10:00 AM - 8:00 PM",
+						"3/25/21":"10:00 AM - 8:00 PM",
+						"3/27/21":"10:00 AM - 8:00 PM",
+						"3/28/21":"11:00 AM - 7:00 PM",
+						"3/30/21":"10:00 AM - 8:00 PM",
+						"3/24/21":"10:00 AM - 8:00 PM",
+						"3/31/21":"10:00 AM - 8:00 PM",
+						"3/13/21":"10:00 AM - 8:00 PM",
+						"3/29/21":"10:00 AM - 8:00 PM",
+						"3/14/21":"11:00 AM - 7:00 PM",
+						"3/23/21":"10:00 AM - 8:00 PM"
+		},
+
+			"image" : ""
+		}
+	]}
+

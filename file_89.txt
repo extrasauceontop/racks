@@ -1,0 +1,249 @@
+
+	{"total":500,"data":[
+	
+		{
+			"displayName" : "ST. AUGUSTINE PREMIUM OUTLETS",
+			"name" : "609",
+			"centerType" : "OUTLET",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "9048298752",
+			"formattedDistance" : "2,481.6 Miles",
+			"line1" : "2700 STATE ROAD 16 STE 415",
+			"line2" : "",
+			"town" : "SAINT AUGUSTINE",
+			"city" : "FL",
+			"postalCode" : "32092",
+			"country" : "United States",
+			"latitude" : "29.9256988",
+			"longitude" : "-81.4189484",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"11:00 AM - 7:00 PM",
+						"Tue":"11:00 AM - 7:00 PM",
+						"Wed":"11:00 AM - 7:00 PM",
+						"Thu":"11:00 AM - 7:00 PM",
+						"Fri":"10:00 AM - 8:00 PM",
+						"Sat":"10:00 AM - 8:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "PADDOCK MALL",
+			"name" : "268",
+			"centerType" : "MALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "3528610380",
+			"formattedDistance" : "2,483 Miles",
+			"line1" : "3100 COLLEGE ROAD ROOM 112",
+			"line2" : "",
+			"town" : "OCALA",
+			"city" : "FL",
+			"postalCode" : "34474",
+			"country" : "United States",
+			"latitude" : "29.1590819",
+			"longitude" : "-82.1730628",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 5:30 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/9/21":"11:00 AM - 7:00 PM",
+						"3/8/21":"11:00 AM - 7:00 PM",
+						"3/10/21":"11:00 AM - 7:00 PM",
+						"3/12/21":"10:00 AM - 8:00 PM",
+						"3/11/21":"11:00 AM - 7:00 PM",
+						"3/17/21":"11:00 AM - 7:00 PM",
+						"3/15/21":"11:00 AM - 7:00 PM",
+						"3/18/21":"11:00 AM - 7:00 PM",
+						"3/19/21":"10:00 AM - 8:00 PM",
+						"3/16/21":"11:00 AM - 7:00 PM",
+						"3/20/21":"10:00 AM - 8:00 PM",
+						"3/24/21":"11:00 AM - 7:00 PM",
+						"3/23/21":"11:00 AM - 7:00 PM",
+						"3/27/21":"10:00 AM - 8:00 PM",
+						"3/26/21":"10:00 AM - 8:00 PM",
+						"3/25/21":"11:00 AM - 7:00 PM",
+						"3/22/21":"11:00 AM - 7:00 PM",
+						"3/13/21":"10:00 AM - 8:00 PM"
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "PATRIOT PLACE",
+			"name" : "3080",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "true",
+			"url" : "",
+			"phone" : "5085432100",
+			"formattedDistance" : "2,484.7 Miles",
+			"line1" : "370 PATRIOT PL",
+			"line2" : "",
+			"town" : "FOXBOROUGH",
+			"city" : "MA",
+			"postalCode" : "02035",
+			"country" : "United States",
+			"latitude" : "42.0862803",
+			"longitude" : "-71.2696683",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "LIBERTY TREE MALL",
+			"name" : "3084",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "true",
+			"url" : "",
+			"phone" : "9787775129",
+			"formattedDistance" : "2,485.4 Miles",
+			"line1" : "100 INDEPENDENCE WAY",
+			"line2" : "",
+			"town" : "DANVERS",
+			"city" : "MA",
+			"postalCode" : "01923",
+			"country" : "United States",
+			"latitude" : "42.5528479",
+			"longitude" : "-70.9401907",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/8/21":"10:00 AM - 8:00 PM",
+						"3/11/21":"10:00 AM - 8:00 PM",
+						"3/9/21":"10:00 AM - 8:00 PM",
+						"3/10/21":"10:00 AM - 8:00 PM",
+						"3/12/21":"10:00 AM - 8:00 PM",
+						"3/13/21":"10:00 AM - 8:00 PM",
+						"3/15/21":"10:00 AM - 8:00 PM",
+						"3/19/21":"10:00 AM - 8:00 PM",
+						"3/22/21":"10:00 AM - 8:00 PM",
+						"3/18/21":"10:00 AM - 8:00 PM",
+						"3/24/21":"10:00 AM - 8:00 PM",
+						"3/23/21":"10:00 AM - 8:00 PM",
+						"3/27/21":"10:00 AM - 8:00 PM",
+						"3/26/21":"10:00 AM - 8:00 PM",
+						"3/31/21":"10:00 AM - 8:00 PM",
+						"3/17/21":"10:00 AM - 8:00 PM",
+						"3/30/21":"10:00 AM - 8:00 PM",
+						"3/25/21":"10:00 AM - 8:00 PM",
+						"3/29/21":"10:00 AM - 8:00 PM",
+						"3/16/21":"10:00 AM - 8:00 PM",
+						"3/20/21":"10:00 AM - 8:00 PM"
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "NORTHSHORE MALL",
+			"name" : "622",
+			"centerType" : "MALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "9789772792",
+			"formattedDistance" : "2,485.6 Miles",
+			"line1" : "210 ANDOVER STREET",
+			"line2" : "",
+			"town" : "PEABODY",
+			"city" : "MA",
+			"postalCode" : "01960",
+			"country" : "United States",
+			"latitude" : "42.5396335",
+			"longitude" : "-70.943273",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/7/21":"12:00 PM - 6:00 PM",
+						"3/8/21":"11:00 AM - 7:00 PM",
+						"3/16/21":"11:00 AM - 7:00 PM",
+						"3/9/21":"11:00 AM - 7:00 PM",
+						"3/13/21":"10:00 AM - 8:00 PM",
+						"3/11/21":"11:00 AM - 7:00 PM",
+						"3/21/21":"12:00 PM - 6:00 PM",
+						"3/19/21":"10:00 AM - 8:00 PM",
+						"3/14/21":"12:00 PM - 6:00 PM",
+						"3/12/21":"10:00 AM - 8:00 PM",
+						"3/17/21":"11:00 AM - 7:00 PM",
+						"3/10/21":"11:00 AM - 7:00 PM",
+						"3/22/21":"11:00 AM - 7:00 PM",
+						"3/20/21":"10:00 AM - 8:00 PM",
+						"3/25/21":"11:00 AM - 7:00 PM",
+						"3/27/21":"10:00 AM - 8:00 PM",
+						"3/24/21":"11:00 AM - 7:00 PM",
+						"3/23/21":"11:00 AM - 7:00 PM",
+						"3/29/21":"11:00 AM - 7:00 PM",
+						"3/30/21":"11:00 AM - 7:00 PM",
+						"3/28/21":"12:00 PM - 6:00 PM",
+						"3/18/21":"11:00 AM - 7:00 PM",
+						"3/31/21":"11:00 AM - 7:00 PM",
+						"3/15/21":"11:00 AM - 7:00 PM",
+						"3/26/21":"10:00 AM - 8:00 PM"
+		},
+
+			"image" : ""
+		}
+	]}
+

@@ -1,0 +1,185 @@
+
+	{"total":500,"data":[
+	
+		{
+			"displayName" : "SHOPPES @ ISLA VERDE",
+			"name" : "3072",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "true",
+			"url" : "",
+			"phone" : "5614222133",
+			"formattedDistance" : "2,688.5 Miles",
+			"line1" : "980 S STATE ROAD 7",
+			"line2" : "",
+			"town" : "WELLINGTON",
+			"city" : "FL",
+			"postalCode" : "33414",
+			"country" : "United States",
+			"latitude" : "26.6671874",
+			"longitude" : "-80.2027159",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 7:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "PALM BEACH FASHION OUTLETS",
+			"name" : "641",
+			"centerType" : "OUTLET",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "5616879371",
+			"formattedDistance" : "2,690.9 Miles",
+			"line1" : "1721 PALM BEACH LAKES BLVD STE E405",
+			"line2" : "",
+			"town" : "WEST PALM BEACH",
+			"city" : "FL",
+			"postalCode" : "33401",
+			"country" : "United States",
+			"latitude" : "26.7254283",
+			"longitude" : "-80.0855309",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 7:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "BOYNTON BEACH MALL",
+			"name" : "303",
+			"centerType" : "MALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "5617389986",
+			"formattedDistance" : "2,699.6 Miles",
+			"line1" : "801 N. CONGRESS AVE. ROOM141",
+			"line2" : "",
+			"town" : "BOYNTON BEACH",
+			"city" : "FL",
+			"postalCode" : "33426",
+			"country" : "United States",
+			"latitude" : "26.5338046",
+			"longitude" : "-80.0959833",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "THE PLAZA AT DELRAY",
+			"name" : "130",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "5612788810",
+			"formattedDistance" : "2,705.1 Miles",
+			"line1" : "1678 S FEDERAL HWY",
+			"line2" : "",
+			"town" : "DELRAY BEACH",
+			"city" : "FL",
+			"postalCode" : "33483",
+			"country" : "United States",
+			"latitude" : "26.441036",
+			"longitude" : "-80.0725462",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 6:00 PM",
+						"Mon":"10:00 AM - 9:30 PM",
+						"Tue":"10:00 AM - 9:30 PM",
+						"Wed":"10:00 AM - 9:30 PM",
+						"Thu":"10:00 AM - 9:30 PM",
+						"Fri":"10:00 AM - 9:30 PM",
+						"Sat":"10:00 AM - 9:30 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "SAWGRASS MILLS",
+			"name" : "3025",
+			"centerType" : "OUTLET",
+			"hideStore" : "true",
+			"url" : "",
+			"phone" : "9548388428",
+			"formattedDistance" : "2,708 Miles",
+			"line1" : "2604 SAWGRASS MILLS CIRCLE STE 1115",
+			"line2" : "",
+			"town" : "SUNRISE",
+			"city" : "FL",
+			"postalCode" : "33323",
+			"country" : "United States",
+			"latitude" : "26.1534952",
+			"longitude" : "-80.321093",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 8:00 PM",
+						"Mon":"10:00 AM - 10:00 PM",
+						"Tue":"10:00 AM - 10:00 PM",
+						"Wed":"10:00 AM - 10:00 PM",
+						"Thu":"10:00 AM - 10:00 PM",
+						"Fri":"10:00 AM - 10:00 PM",
+						"Sat":"10:00 AM - 10:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		}
+	]}
+

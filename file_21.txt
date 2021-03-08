@@ -1,0 +1,210 @@
+
+	{"total":500,"data":[
+	
+		{
+			"displayName" : "NORTHWOODS SHOPPING CENTER",
+			"name" : "342",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "2104023155",
+			"formattedDistance" : "1,778.5 Miles",
+			"line1" : "18030 US HWY 281 NORTH STE116",
+			"line2" : "",
+			"town" : "SAN ANTONIO",
+			"city" : "TX",
+			"postalCode" : "78232",
+			"country" : "United States",
+			"latitude" : "29.6043096",
+			"longitude" : "-98.4673993",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "KYLE CROSSING SHOPPING CENTER",
+			"name" : "591",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "5122681815",
+			"formattedDistance" : "1,779.7 Miles",
+			"line1" : "5132 KYLE CENTER DR STE 110",
+			"line2" : "",
+			"town" : "KYLE",
+			"city" : "TX",
+			"postalCode" : "78640",
+			"country" : "United States",
+			"latitude" : "30.0118233",
+			"longitude" : "-97.8651639",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "INGRAM PARK MALL",
+			"name" : "344",
+			"centerType" : "MALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "2106849638",
+			"formattedDistance" : "1,780.1 Miles",
+			"line1" : "6301 NW LOOP 410 #523C",
+			"line2" : "",
+			"town" : "SAN ANTONIO",
+			"city" : "TX",
+			"postalCode" : "78238",
+			"country" : "United States",
+			"latitude" : "29.4681",
+			"longitude" : "-98.6204",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "WESTOVER MARKETPLACE",
+			"name" : "438",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "2106809158",
+			"formattedDistance" : "1,780.6 Miles",
+			"line1" : "8219 STATE HIGHWAY 151 STE 122",
+			"line2" : "",
+			"town" : "SAN ANTONIO",
+			"city" : "TX",
+			"postalCode" : "78245",
+			"country" : "United States",
+			"latitude" : "29.4390947",
+			"longitude" : "-98.6486596",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "OUTLETS AT LITTLE ROCK",
+			"name" : "696",
+			"centerType" : "OUTLET",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "5014554084",
+			"formattedDistance" : "1,780.8 Miles",
+			"line1" : "11201 BASS PRO PWKY SP  A-2 E125",
+			"line2" : "",
+			"town" : "LITTLE ROCK",
+			"city" : "AR",
+			"postalCode" : "72210",
+			"country" : "United States",
+			"latitude" : "34.6602619",
+			"longitude" : "-92.4069774",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 7:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/7/21":"11:00 AM - 6:00 PM",
+						"3/11/21":"11:00 AM - 7:00 PM",
+						"3/15/21":"11:00 AM - 7:00 PM",
+						"3/14/21":"11:00 AM - 6:00 PM",
+						"3/13/21":"10:00 AM - 7:00 PM",
+						"3/8/21":"11:00 AM - 7:00 PM",
+						"3/9/21":"11:00 AM - 7:00 PM",
+						"3/12/21":"11:00 AM - 7:00 PM",
+						"3/18/21":"11:00 AM - 7:00 PM",
+						"3/16/21":"11:00 AM - 7:00 PM",
+						"3/20/21":"10:00 AM - 7:00 PM",
+						"3/24/21":"11:00 AM - 7:00 PM",
+						"3/21/21":"11:00 AM - 6:00 PM",
+						"3/25/21":"11:00 AM - 7:00 PM",
+						"3/23/21":"11:00 AM - 7:00 PM",
+						"3/27/21":"10:00 AM - 7:00 PM",
+						"3/22/21":"11:00 AM - 7:00 PM",
+						"3/17/21":"11:00 AM - 7:00 PM",
+						"3/19/21":"11:00 AM - 7:00 PM",
+						"3/30/21":"11:00 AM - 7:00 PM",
+						"3/31/21":"11:00 AM - 7:00 PM",
+						"3/28/21":"11:00 AM - 6:00 PM",
+						"3/10/21":"11:00 AM - 7:00 PM",
+						"3/29/21":"11:00 AM - 7:00 PM",
+						"3/26/21":"11:00 AM - 7:00 PM"
+		},
+
+			"image" : ""
+		}
+	]}
+

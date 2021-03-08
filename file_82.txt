@@ -1,0 +1,185 @@
+
+	{"total":500,"data":[
+	
+		{
+			"displayName" : "KING STREET",
+			"name" : "615",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "8435775922",
+			"formattedDistance" : "2,423.9 Miles",
+			"line1" : "245 KING STREET",
+			"line2" : "",
+			"town" : "CHARLESTON",
+			"city" : "SC",
+			"postalCode" : "29401",
+			"country" : "United States",
+			"latitude" : "32.7815107",
+			"longitude" : "-79.9335825",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 7:00 PM",
+						"Tue":"10:00 AM - 7:00 PM",
+						"Wed":"10:00 AM - 7:00 PM",
+						"Thu":"10:00 AM - 8:00 PM",
+						"Fri":"10:00 AM - 8:00 PM",
+						"Sat":"10:00 AM - 8:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "CHESAPEAKE SQUARE",
+			"name" : "327",
+			"centerType" : "MALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "7574055501",
+			"formattedDistance" : "2,426 Miles",
+			"line1" : "4200 PORTSMOUTH BLVD. SP 752",
+			"line2" : "",
+			"town" : "CHESAPEAKE",
+			"city" : "VA",
+			"postalCode" : "23321",
+			"country" : "United States",
+			"latitude" : "36.8263889",
+			"longitude" : "-76.4144444",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "MT. PLEASANT TOWN CENTER",
+			"name" : "390",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "8439710244",
+			"formattedDistance" : "2,426.6 Miles",
+			"line1" : "1736 TOWNE CENTRE WAY",
+			"line2" : "",
+			"town" : "MOUNT PLEASANT",
+			"city" : "SC",
+			"postalCode" : "29464",
+			"country" : "United States",
+			"latitude" : "32.8289474",
+			"longitude" : "-79.8308561",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "TANGER OUTLETS - THE WALK",
+			"name" : "3120",
+			"centerType" : "OUTLET",
+			"hideStore" : "true",
+			"url" : "",
+			"phone" : "6094410140",
+			"formattedDistance" : "2,427.4 Miles",
+			"line1" : "121 N MICHIGAN AVE. SUITE 120",
+			"line2" : "",
+			"town" : "ATLANTIC CITY",
+			"city" : "NJ",
+			"postalCode" : "08401",
+			"country" : "United States",
+			"latitude" : "39.3618415",
+			"longitude" : "-74.4365333",
+			
+				"openings":
+		{
+		
+						"Sun":"10:00 AM - 7:00 PM",
+						"Mon":"10:00 AM - 8:00 PM",
+						"Tue":"10:00 AM - 8:00 PM",
+						"Wed":"10:00 AM - 8:00 PM",
+						"Thu":"10:00 AM - 8:00 PM",
+						"Fri":"10:00 AM - 8:00 PM",
+						"Sat":"10:00 AM - 8:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "TANGER OUTLET CENTER - HWY. 501",
+			"name" : "12",
+			"centerType" : "OUTLET",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "8432365917",
+			"formattedDistance" : "2,428.5 Miles",
+			"line1" : "4618 FACTORY STORES BLVD STE E-140",
+			"line2" : "",
+			"town" : "MYRTLE BEACH",
+			"city" : "SC",
+			"postalCode" : "29579",
+			"country" : "United States",
+			"latitude" : "33.7522661",
+			"longitude" : "-78.9552353",
+			
+				"openings":
+		{
+		
+						"Sun":"10:00 AM - 7:00 PM",
+						"Mon":"9:00 AM - 9:00 PM",
+						"Tue":"9:00 AM - 9:00 PM",
+						"Wed":"9:00 AM - 9:00 PM",
+						"Thu":"9:00 AM - 9:00 PM",
+						"Fri":"9:00 AM - 9:00 PM",
+						"Sat":"9:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		}
+	]}
+

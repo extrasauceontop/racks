@@ -1,0 +1,281 @@
+
+	{"total":500,"data":[
+	
+		{
+			"displayName" : "DOWNTOWN SUMMERLIN",
+			"name" : "3108",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "true",
+			"url" : "",
+			"phone" : "7024896020",
+			"formattedDistance" : "870.6 Miles",
+			"line1" : "2310 PARK CENTER DR. STE. 120",
+			"line2" : "",
+			"town" : "LAS VEGAS",
+			"city" : "NV",
+			"postalCode" : "89135",
+			"country" : "United States",
+			"latitude" : "36.1464814",
+			"longitude" : "-115.3323726",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 7:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/8/21":"10:00 AM - 8:00 PM",
+						"3/9/21":"10:00 AM - 8:00 PM",
+						"3/12/21":"10:00 AM - 8:00 PM",
+						"3/13/21":"10:00 AM - 8:00 PM",
+						"3/10/21":"10:00 AM - 8:00 PM",
+						"3/16/21":"10:00 AM - 8:00 PM",
+						"3/18/21":"10:00 AM - 8:00 PM",
+						"3/19/21":"10:00 AM - 8:00 PM",
+						"3/15/21":"10:00 AM - 8:00 PM",
+						"3/22/21":"10:00 AM - 8:00 PM",
+						"3/11/21":"10:00 AM - 8:00 PM",
+						"3/17/21":"10:00 AM - 8:00 PM",
+						"3/26/21":"10:00 AM - 8:00 PM",
+						"3/25/21":"10:00 AM - 8:00 PM",
+						"4/2/21":"10:00 AM - 8:00 PM",
+						"3/30/21":"10:00 AM - 8:00 PM",
+						"3/31/21":"10:00 AM - 8:00 PM",
+						"4/1/21":"10:00 AM - 8:00 PM",
+						"3/23/21":"10:00 AM - 8:00 PM",
+						"3/20/21":"10:00 AM - 8:00 PM",
+						"3/24/21":"10:00 AM - 8:00 PM",
+						"3/29/21":"10:00 AM - 8:00 PM",
+						"3/27/21":"10:00 AM - 8:00 PM",
+						"4/3/21":"10:00 AM - 8:00 PM"
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "LAS VEGAS SOUTH PREMIUM OUTLETS",
+			"name" : "455",
+			"centerType" : "OUTLET",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "7022604117",
+			"formattedDistance" : "879.9 Miles",
+			"line1" : "7400 S LAS VEGAS BLVD SP 238 AB",
+			"line2" : "",
+			"town" : "LAS VEGAS",
+			"city" : "NV",
+			"postalCode" : "89123",
+			"country" : "United States",
+			"latitude" : "36.0548341",
+			"longitude" : "-115.1693616",
+			
+				"openings":
+		{
+		
+						"Sun":"9:00 AM - 8:00 PM",
+						"Mon":"9:00 AM - 9:00 PM",
+						"Tue":"9:00 AM - 9:00 PM",
+						"Wed":"9:00 AM - 9:00 PM",
+						"Thu":"9:00 AM - 9:00 PM",
+						"Fri":"9:00 AM - 9:00 PM",
+						"Sat":"9:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/12/21":"10:00 AM - 8:00 PM",
+						"3/13/21":"10:00 AM - 8:00 PM",
+						"3/8/21":"11:00 AM - 7:00 PM",
+						"3/11/21":"11:00 AM - 7:00 PM",
+						"3/14/21":"12:00 PM - 6:00 PM",
+						"3/9/21":"11:00 AM - 7:00 PM",
+						"3/16/21":"11:00 AM - 7:00 PM",
+						"3/17/21":"11:00 AM - 7:00 PM",
+						"3/10/21":"11:00 AM - 7:00 PM",
+						"3/7/21":"12:00 PM - 6:00 PM",
+						"3/15/21":"11:00 AM - 7:00 PM",
+						"3/19/21":"10:00 AM - 8:00 PM",
+						"3/20/21":"10:00 AM - 8:00 PM",
+						"3/21/21":"12:00 PM - 6:00 PM",
+						"3/23/21":"11:00 AM - 7:00 PM",
+						"3/22/21":"11:00 AM - 7:00 PM",
+						"3/24/21":"11:00 AM - 7:00 PM",
+						"3/18/21":"11:00 AM - 7:00 PM",
+						"3/25/21":"11:00 AM - 7:00 PM",
+						"3/26/21":"10:00 AM - 8:00 PM",
+						"3/28/21":"12:00 PM - 6:00 PM",
+						"3/31/21":"11:00 AM - 7:00 PM",
+						"3/29/21":"11:00 AM - 7:00 PM",
+						"3/30/21":"11:00 AM - 7:00 PM",
+						"3/27/21":"10:00 AM - 8:00 PM"
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "OUTLETS AT TEJON PARKWAY",
+			"name" : "649",
+			"centerType" : "OUTLET",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "6618582771",
+			"formattedDistance" : "891.1 Miles",
+			"line1" : "5701 OUTLETS AT TEJON PKWY STE 470",
+			"line2" : "",
+			"town" : "ARVIN",
+			"city" : "CA",
+			"postalCode" : "93203",
+			"country" : "United States",
+			"latitude" : "34.9848377",
+			"longitude" : "-118.9415835",
+			
+				"openings":
+		{
+		
+						"Sun":"10:00 AM - 8:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "FASHION OUTLETS OF LAS VEGAS",
+			"name" : "612",
+			"centerType" : "OUTLET",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "7028740011",
+			"formattedDistance" : "904.1 Miles",
+			"line1" : "32100 LAS VEGAS BLVDSSUITE 320",
+			"line2" : "",
+			"town" : "PRIMM",
+			"city" : "NV",
+			"postalCode" : "89019",
+			"country" : "United States",
+			"latitude" : "35.6076231",
+			"longitude" : "-115.3877831",
+			
+				"openings":
+		{
+		
+						"Sun":"10:00 AM - 8:00 PM",
+						"Mon":"10:00 AM - 8:00 PM",
+						"Tue":"10:00 AM - 8:00 PM",
+						"Wed":"10:00 AM - 8:00 PM",
+						"Thu":"10:00 AM - 8:00 PM",
+						"Fri":"10:00 AM - 8:00 PM",
+						"Sat":"10:00 AM - 8:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/9/21":"10:00 AM - 6:00 PM",
+						"3/10/21":"10:00 AM - 6:00 PM",
+						"3/8/21":"10:00 AM - 6:00 PM",
+						"3/13/21":"10:00 AM - 6:00 PM",
+						"3/18/21":"10:00 AM - 6:00 PM",
+						"3/12/21":"10:00 AM - 6:00 PM",
+						"3/17/21":"10:00 AM - 6:00 PM",
+						"3/11/21":"10:00 AM - 6:00 PM",
+						"3/19/21":"10:00 AM - 6:00 PM",
+						"3/22/21":"10:00 AM - 6:00 PM",
+						"3/24/21":"10:00 AM - 6:00 PM",
+						"3/21/21":"10:00 AM - 6:00 PM",
+						"3/15/21":"10:00 AM - 6:00 PM",
+						"3/20/21":"10:00 AM - 6:00 PM",
+						"3/29/21":"10:00 AM - 6:00 PM",
+						"3/27/21":"10:00 AM - 6:00 PM",
+						"3/31/21":"10:00 AM - 6:00 PM",
+						"3/23/21":"10:00 AM - 6:00 PM",
+						"3/30/21":"10:00 AM - 6:00 PM",
+						"3/26/21":"10:00 AM - 6:00 PM",
+						"3/7/21":"10:00 AM - 6:00 PM",
+						"3/28/21":"10:00 AM - 6:00 PM",
+						"3/14/21":"10:00 AM - 6:00 PM",
+						"3/25/21":"10:00 AM - 6:00 PM",
+						"3/16/21":"10:00 AM - 6:00 PM"
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "THE PROMENADE @ CAMARILLO OUTLETS",
+			"name" : "559",
+			"centerType" : "OUTLET",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "8053836404",
+			"formattedDistance" : "942.2 Miles",
+			"line1" : "500 W VENTURA BLVD. SUITE 1506",
+			"line2" : "",
+			"town" : "CAMARILLO",
+			"city" : "CA",
+			"postalCode" : "93010",
+			"country" : "United States",
+			"latitude" : "34.2154332",
+			"longitude" : "-119.0666426",
+			
+				"openings":
+		{
+		
+						"Sun":"10:00 AM - 8:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/12/21":"10:00 AM - 8:00 PM",
+						"3/13/21":"10:00 AM - 8:00 PM",
+						"3/8/21":"11:00 AM - 7:00 PM",
+						"3/17/21":"11:00 AM - 7:00 PM",
+						"3/7/21":"12:00 PM - 6:00 PM",
+						"3/10/21":"11:00 AM - 7:00 PM",
+						"3/18/21":"11:00 AM - 7:00 PM",
+						"3/20/21":"10:00 AM - 8:00 PM",
+						"3/15/21":"11:00 AM - 7:00 PM",
+						"3/21/21":"12:00 PM - 6:00 PM",
+						"3/23/21":"11:00 AM - 7:00 PM",
+						"3/25/21":"11:00 AM - 7:00 PM",
+						"3/24/21":"11:00 AM - 7:00 PM",
+						"3/16/21":"11:00 AM - 7:00 PM",
+						"3/28/21":"12:00 PM - 6:00 PM",
+						"3/11/21":"11:00 AM - 7:00 PM",
+						"3/22/21":"11:00 AM - 7:00 PM",
+						"3/9/21":"11:00 AM - 7:00 PM",
+						"3/19/21":"10:00 AM - 8:00 PM",
+						"3/26/21":"10:00 AM - 8:00 PM",
+						"3/27/21":"10:00 AM - 8:00 PM",
+						"3/14/21":"12:00 PM - 6:00 PM"
+		},
+
+			"image" : ""
+		}
+	]}
+

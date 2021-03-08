@@ -1,0 +1,207 @@
+
+	{"total":500,"data":[
+	
+		{
+			"displayName" : "LINCOLN SQUARE",
+			"name" : "464",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "8178018595",
+			"formattedDistance" : "1,669.7 Miles",
+			"line1" : "400 LINCOLN SQ",
+			"line2" : "",
+			"town" : "ARLINGTON",
+			"city" : "TX",
+			"postalCode" : "76011",
+			"country" : "United States",
+			"latitude" : "32.757878",
+			"longitude" : "-97.098215",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/8/21":"10:00 AM - 8:00 PM",
+						"3/9/21":"10:00 AM - 8:00 PM",
+						"3/11/21":"10:00 AM - 8:00 PM",
+						"3/13/21":"10:00 AM - 8:00 PM",
+						"3/12/21":"10:00 AM - 8:00 PM",
+						"3/15/21":"10:00 AM - 8:00 PM",
+						"3/17/21":"10:00 AM - 8:00 PM",
+						"3/16/21":"10:00 AM - 8:00 PM",
+						"3/20/21":"10:00 AM - 8:00 PM",
+						"3/10/21":"10:00 AM - 8:00 PM",
+						"3/18/21":"10:00 AM - 8:00 PM",
+						"3/19/21":"10:00 AM - 8:00 PM",
+						"3/23/21":"10:00 AM - 8:00 PM",
+						"3/22/21":"10:00 AM - 8:00 PM",
+						"3/26/21":"10:00 AM - 8:00 PM",
+						"3/27/21":"10:00 AM - 8:00 PM",
+						"3/31/21":"10:00 AM - 8:00 PM",
+						"3/29/21":"10:00 AM - 8:00 PM",
+						"3/30/21":"10:00 AM - 8:00 PM",
+						"3/25/21":"10:00 AM - 8:00 PM",
+						"3/24/21":"10:00 AM - 8:00 PM"
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "IRVING MALL",
+			"name" : "574",
+			"centerType" : "MALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "9722551384",
+			"formattedDistance" : "1,669.8 Miles",
+			"line1" : "3712 IRVING MALL STE EO3B",
+			"line2" : "",
+			"town" : "IRVING",
+			"city" : "TX",
+			"postalCode" : "75062",
+			"country" : "United States",
+			"latitude" : "32.8394103",
+			"longitude" : "-96.996353",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"7/4/21":"11:00 AM - 6:00 PM"
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "GRAND PRAIRIE PREMIUM OUTLETS",
+			"name" : "623",
+			"centerType" : "OUTLET",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "9725221697",
+			"formattedDistance" : "1,675.4 Miles",
+			"line1" : "2950 W I-20 STE 720",
+			"line2" : "",
+			"town" : "GRAND PRAIRIE",
+			"city" : "TX",
+			"postalCode" : "75052",
+			"country" : "United States",
+			"latitude" : "32.6786512",
+			"longitude" : "-97.0545496",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "WOODBRIDGE CROSSING",
+			"name" : "585",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "9724291387",
+			"formattedDistance" : "1,678.1 Miles",
+			"line1" : "3420 W FM544 STE 780",
+			"line2" : "",
+			"town" : "WYLIE",
+			"city" : "TX",
+			"postalCode" : "75098",
+			"country" : "United States",
+			"latitude" : "33.0089348",
+			"longitude" : "-96.5930147",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "LIBERTY CROSSING",
+			"name" : "550",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "2146071670",
+			"formattedDistance" : "1,684.4 Miles",
+			"line1" : " 5703 LIBERTY GROVE ROAD",
+			"line2" : "",
+			"town" : "ROWLETT",
+			"city" : "TX",
+			"postalCode" : "75089",
+			"country" : "United States",
+			"latitude" : "32.9106483",
+			"longitude" : "-96.5578846",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		}
+	]}
+

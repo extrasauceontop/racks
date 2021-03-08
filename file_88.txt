@@ -1,0 +1,219 @@
+
+	{"total":500,"data":[
+	
+		{
+			"displayName" : "NEW BERN MARKETPLACE",
+			"name" : "755",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "2524949933",
+			"formattedDistance" : "2,460.3 Miles",
+			"line1" : "3565 MLK JR BLVD",
+			"line2" : "",
+			"town" : "NEW BERN",
+			"city" : "NC",
+			"postalCode" : "28562",
+			"country" : "United States",
+			"latitude" : "35.0970912",
+			"longitude" : "-77.1012801",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "MAYFAIR TOWN CENTER",
+			"name" : "7",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "9102568728",
+			"formattedDistance" : "2,460.8 Miles",
+			"line1" : "6876 MAIN ST BLDG CD-106",
+			"line2" : "",
+			"town" : "WILMINGTON",
+			"city" : "NC",
+			"postalCode" : "28405",
+			"country" : "United States",
+			"latitude" : "34.2426224",
+			"longitude" : "-77.8252923",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/15/21":"11:00 AM - 8:00 PM",
+						"3/20/21":"11:00 AM - 8:00 PM",
+						"3/11/21":"11:00 AM - 7:00 PM",
+						"3/12/21":"11:00 AM - 8:00 PM",
+						"3/10/21":"11:00 AM - 7:00 PM",
+						"3/22/21":"11:00 AM - 8:00 PM",
+						"3/30/21":"11:00 AM - 7:00 PM",
+						"4/2/21":"11:00 AM - 8:00 PM",
+						"3/17/21":"11:00 AM - 8:00 PM",
+						"3/29/21":"11:00 AM - 7:00 PM",
+						"4/3/21":"11:00 AM - 8:00 PM",
+						"3/16/21":"11:00 AM - 8:00 PM",
+						"3/19/21":"11:00 AM - 8:00 PM",
+						"3/27/21":"11:00 AM - 8:00 PM",
+						"3/8/21":"11:00 AM - 7:00 PM",
+						"3/9/21":"11:00 AM - 7:00 PM",
+						"3/13/21":"11:00 AM - 8:00 PM",
+						"3/26/21":"11:00 AM - 8:00 PM",
+						"3/24/21":"11:00 AM - 8:00 PM",
+						"3/25/21":"11:00 AM - 8:00 PM",
+						"4/1/21":"11:00 AM - 7:00 PM",
+						"3/23/21":"11:00 AM - 8:00 PM",
+						"3/31/21":"11:00 AM - 7:00 PM",
+						"3/18/21":"11:00 AM - 8:00 PM"
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "RIVER PLACE S/C",
+			"name" : "454",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "9042687442",
+			"formattedDistance" : "2,461.1 Miles",
+			"line1" : "11111 SAN JOSE BLVD STE 27",
+			"line2" : "",
+			"town" : "JACKSONVILLE",
+			"city" : "FL",
+			"postalCode" : "32223",
+			"country" : "United States",
+			"latitude" : "30.1732443",
+			"longitude" : "-81.6256209",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "THE AVENUES",
+			"name" : "210",
+			"centerType" : "MALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "9044640426",
+			"formattedDistance" : "2,463.9 Miles",
+			"line1" : "10300 SOUTHSIDE BLVD. RM 2030",
+			"line2" : "",
+			"town" : "JACKSONVILLE",
+			"city" : "FL",
+			"postalCode" : "32256",
+			"country" : "United States",
+			"latitude" : "30.1832611",
+			"longitude" : "-81.5540294",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"11:00 AM - 7:00 PM",
+						"Tue":"11:00 AM - 7:00 PM",
+						"Wed":"11:00 AM - 7:00 PM",
+						"Thu":"11:00 AM - 7:00 PM",
+						"Fri":"10:00 AM - 8:00 PM",
+						"Sat":"10:00 AM - 8:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/13/21":"10:00 AM - 8:00 PM",
+						"3/11/21":"11:00 AM - 7:00 PM",
+						"3/9/21":"11:00 AM - 7:00 PM",
+						"3/12/21":"10:00 AM - 8:00 PM",
+						"3/15/21":"11:00 AM - 7:00 PM",
+						"3/17/21":"11:00 AM - 7:00 PM",
+						"3/10/21":"11:00 AM - 7:00 PM",
+						"3/16/21":"11:00 AM - 7:00 PM",
+						"3/18/21":"11:00 AM - 7:00 PM",
+						"3/8/21":"11:00 AM - 7:00 PM"
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "SOUTH BEACH PARKWAY SHOPPING CTR.",
+			"name" : "153",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "9042856006",
+			"formattedDistance" : "2,468 Miles",
+			"line1" : "602 MARSH LANDING PKWY",
+			"line2" : "",
+			"town" : "JACKSONVILLE BEACH",
+			"city" : "FL",
+			"postalCode" : "32250",
+			"country" : "United States",
+			"latitude" : "30.2536513",
+			"longitude" : "-81.3914783",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		}
+	]}
+

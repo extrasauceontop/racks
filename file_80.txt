@@ -1,0 +1,219 @@
+
+	{"total":500,"data":[
+	
+		{
+			"displayName" : "BLUFFTON-HILTON HEAD VILLAGE",
+			"name" : "731",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "8438375254",
+			"formattedDistance" : "2,406.6 Miles",
+			"line1" : "1460 FORDING ISLAND ROAD STE 240",
+			"line2" : "",
+			"town" : "BLUFFTON",
+			"city" : "SC",
+			"postalCode" : "29910",
+			"country" : "United States",
+			"latitude" : "32.2389452",
+			"longitude" : "-80.8153295",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "THE CORNER AT WESTCOTT",
+			"name" : "629",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "8436951552",
+			"formattedDistance" : "2,407.8 Miles",
+			"line1" : "9500 DORCHESTER RD",
+			"line2" : "",
+			"town" : "NORTH CHARLESTON",
+			"city" : "SC",
+			"postalCode" : "29485",
+			"country" : "United States",
+			"latitude" : "32.9358378",
+			"longitude" : "-80.1404139",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "GOLDSBORO COMMONS",
+			"name" : "466",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "9197788704",
+			"formattedDistance" : "2,410.6 Miles",
+			"line1" : "1215 N BERKELEY BLVD",
+			"line2" : "",
+			"town" : "GOLDSBORO",
+			"city" : "NC",
+			"postalCode" : "27534",
+			"country" : "United States",
+			"latitude" : "35.3833688",
+			"longitude" : "-77.9311622",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "NORTHWOODS MALL",
+			"name" : "245",
+			"centerType" : "MALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "8437970191",
+			"formattedDistance" : "2,411.9 Miles",
+			"line1" : "2150 NORTHWOODS BLVD UNIT F52",
+			"line2" : "",
+			"town" : "NORTH CHARLESTON",
+			"city" : "SC",
+			"postalCode" : "29406",
+			"country" : "United States",
+			"latitude" : "32.9447225",
+			"longitude" : "-80.0447602",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "TANGER OUTLETS - CHARLESTON",
+			"name" : "656",
+			"centerType" : "OUTLET",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "8437450074",
+			"formattedDistance" : "2,416 Miles",
+			"line1" : "4840 TANGER OUTLET BLVD STE 966",
+			"line2" : "",
+			"town" : "CHARLESTON",
+			"city" : "SC",
+			"postalCode" : "29418",
+			"country" : "United States",
+			"latitude" : "32.8741626",
+			"longitude" : "-80.018777",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/7/21":"11:00 AM - 7:00 PM",
+						"3/8/21":"10:00 AM - 8:00 PM",
+						"3/9/21":"10:00 AM - 8:00 PM",
+						"3/10/21":"10:00 AM - 8:00 PM",
+						"3/14/21":"11:00 AM - 7:00 PM",
+						"3/13/21":"10:00 AM - 8:00 PM",
+						"3/16/21":"10:00 AM - 8:00 PM",
+						"3/18/21":"10:00 AM - 8:00 PM",
+						"3/17/21":"10:00 AM - 8:00 PM",
+						"3/15/21":"10:00 AM - 8:00 PM",
+						"3/12/21":"10:00 AM - 8:00 PM",
+						"3/19/21":"10:00 AM - 8:00 PM",
+						"3/20/21":"10:00 AM - 8:00 PM",
+						"3/22/21":"10:00 AM - 8:00 PM",
+						"3/21/21":"11:00 AM - 7:00 PM",
+						"3/23/21":"10:00 AM - 8:00 PM",
+						"3/25/21":"10:00 AM - 8:00 PM",
+						"3/29/21":"10:00 AM - 8:00 PM",
+						"3/28/21":"11:00 AM - 7:00 PM",
+						"3/31/21":"10:00 AM - 8:00 PM",
+						"3/27/21":"10:00 AM - 8:00 PM",
+						"4/1/21":"10:00 AM - 8:00 PM",
+						"3/26/21":"10:00 AM - 8:00 PM",
+						"4/6/21":"10:00 AM - 8:00 PM",
+						"4/2/21":"10:00 AM - 8:00 PM",
+						"4/3/21":"12:00 PM - 5:00 PM",
+						"3/24/21":"10:00 AM - 8:00 PM",
+						"4/5/21":"10:00 AM - 8:00 PM",
+						"4/7/21":"10:00 AM - 8:00 PM",
+						"4/8/21":"10:00 AM - 8:00 PM",
+						"4/10/21":"10:00 AM - 8:00 PM",
+						"4/9/21":"10:00 AM - 8:00 PM",
+						"3/11/21":"10:00 AM - 8:00 PM",
+						"3/30/21":"10:00 AM - 8:00 PM"
+		},
+
+			"image" : ""
+		}
+	]}
+

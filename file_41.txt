@@ -1,0 +1,210 @@
+
+	{"total":500,"data":[
+	
+		{
+			"displayName" : "PARKWAY PLAZA",
+			"name" : "676",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "7068588772",
+			"formattedDistance" : "2,092 Miles",
+			"line1" : "205 PARKWAY DRIVE",
+			"line2" : "",
+			"town" : "FORT OGLETHORPE",
+			"city" : "GA",
+			"postalCode" : "30742",
+			"country" : "United States",
+			"latitude" : "34.9380275",
+			"longitude" : "-85.2194688",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "COLONIAL PROPERTY ALABASTER PH II",
+			"name" : "496",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "2056649322",
+			"formattedDistance" : "2,092.5 Miles",
+			"line1" : "320 SOUTH COLONIAL DR STE 3100",
+			"line2" : "",
+			"town" : "ALABASTER",
+			"city" : "AL",
+			"postalCode" : "35007",
+			"country" : "United States",
+			"latitude" : "33.2236009",
+			"longitude" : "-86.8037523",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "MAIN STREET AT OAK RIDGE",
+			"name" : "698",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "8654821850",
+			"formattedDistance" : "2,093.4 Miles",
+			"line1" : "747 W MAIN ST",
+			"line2" : "",
+			"town" : "OAK RIDGE",
+			"city" : "TN",
+			"postalCode" : "37830",
+			"country" : "United States",
+			"latitude" : "36.0100938",
+			"longitude" : "-84.2558242",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "FREMAUX TOWN CENTER",
+			"name" : "3115",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "true",
+			"url" : "",
+			"phone" : "9856907135",
+			"formattedDistance" : "2,098 Miles",
+			"line1" : "600 TOWN CENTER PARKWAY BLDG D",
+			"line2" : "",
+			"town" : "SLIDELL",
+			"city" : "LA",
+			"postalCode" : "70458",
+			"country" : "United States",
+			"latitude" : "30.2692277",
+			"longitude" : "-89.7604326",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 7:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/11/21":"10:00 AM - 8:00 PM",
+						"3/7/21":"11:00 AM - 6:00 PM",
+						"3/8/21":"10:00 AM - 8:00 PM",
+						"3/10/21":"10:00 AM - 8:00 PM",
+						"3/15/21":"10:00 AM - 8:00 PM",
+						"3/12/21":"10:00 AM - 8:00 PM",
+						"3/18/21":"10:00 AM - 8:00 PM",
+						"3/17/21":"10:00 AM - 8:00 PM",
+						"3/16/21":"10:00 AM - 8:00 PM",
+						"3/9/21":"10:00 AM - 8:00 PM",
+						"3/19/21":"10:00 AM - 8:00 PM",
+						"3/25/21":"10:00 AM - 8:00 PM",
+						"3/22/21":"10:00 AM - 8:00 PM",
+						"3/29/21":"10:00 AM - 8:00 PM",
+						"3/24/21":"10:00 AM - 8:00 PM",
+						"3/28/21":"11:00 AM - 6:00 PM",
+						"3/13/21":"10:00 AM - 8:00 PM",
+						"3/14/21":"11:00 AM - 6:00 PM",
+						"3/31/21":"10:00 AM - 8:00 PM",
+						"3/26/21":"10:00 AM - 8:00 PM",
+						"3/30/21":"10:00 AM - 8:00 PM",
+						"3/27/21":"10:00 AM - 8:00 PM",
+						"3/21/21":"11:00 AM - 6:00 PM",
+						"3/23/21":"10:00 AM - 8:00 PM",
+						"3/20/21":"10:00 AM - 8:00 PM"
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "CLEVELAND-BRADLEY SQUARE SHOPPING C",
+			"name" : "779",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "4234794158",
+			"formattedDistance" : "2,098 Miles",
+			"line1" : "300 PAUL HUFF PKWY NW UNIT #500",
+			"line2" : "",
+			"town" : "CLEVELAND",
+			"city" : "TN",
+			"postalCode" : "37312",
+			"country" : "United States",
+			"latitude" : "35.207671",
+			"longitude" : "-84.849799",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		}
+	]}
+

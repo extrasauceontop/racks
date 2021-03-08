@@ -1,0 +1,210 @@
+
+	{"total":500,"data":[
+	
+		{
+			"displayName" : "CONYERS CROSSROADS",
+			"name" : "289",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "7704833964",
+			"formattedDistance" : "2,201.3 Miles",
+			"line1" : "1462B DOGWOOD DR SE",
+			"line2" : "",
+			"town" : "CONYERS",
+			"city" : "GA",
+			"postalCode" : "30013",
+			"country" : "United States",
+			"latitude" : "33.6509354",
+			"longitude" : "-83.9951334",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "COLUMBUS PARK CROSSING",
+			"name" : "446",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "7064941155",
+			"formattedDistance" : "2,205.7 Miles",
+			"line1" : "5555 WHITTLESEY BLVD BLDG 2220",
+			"line2" : "",
+			"town" : "COLUMBUS",
+			"city" : "GA",
+			"postalCode" : "31909",
+			"country" : "United States",
+			"latitude" : "32.5448833",
+			"longitude" : "-84.9471191",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 7:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "TANGER OUTLETS",
+			"name" : "361",
+			"centerType" : "OUTLET",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "8282953523",
+			"formattedDistance" : "2,207.7 Miles",
+			"line1" : "310 SHOPPES ON THE PKWY STE 6",
+			"line2" : "",
+			"town" : "BLOWING ROCK",
+			"city" : "NC",
+			"postalCode" : "28605",
+			"country" : "United States",
+			"latitude" : "36.1402245",
+			"longitude" : "-81.6708362",
+			
+				"openings":
+		{
+		
+						"Sun":"10:00 AM - 7:00 PM",
+						"Mon":"10:00 AM - 7:00 PM",
+						"Tue":"10:00 AM - 7:00 PM",
+						"Wed":"10:00 AM - 7:00 PM",
+						"Thu":"10:00 AM - 7:00 PM",
+						"Fri":"10:00 AM - 7:00 PM",
+						"Sat":"10:00 AM - 7:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+						"3/7/21":"10:00 AM - 7:00 PM",
+						"3/9/21":"10:00 AM - 7:00 PM",
+						"3/13/21":"10:00 AM - 7:00 PM",
+						"3/15/21":"10:00 AM - 7:00 PM",
+						"3/11/21":"10:00 AM - 7:00 PM",
+						"3/14/21":"10:00 AM - 7:00 PM",
+						"3/8/21":"10:00 AM - 7:00 PM",
+						"3/12/21":"10:00 AM - 7:00 PM",
+						"3/16/21":"10:00 AM - 7:00 PM",
+						"3/17/21":"10:00 AM - 7:00 PM",
+						"3/10/21":"10:00 AM - 7:00 PM",
+						"3/19/21":"10:00 AM - 7:00 PM",
+						"3/18/21":"10:00 AM - 7:00 PM",
+						"3/21/21":"10:00 AM - 7:00 PM",
+						"3/22/21":"10:00 AM - 7:00 PM",
+						"3/23/21":"10:00 AM - 7:00 PM",
+						"3/27/21":"10:00 AM - 7:00 PM",
+						"3/20/21":"10:00 AM - 7:00 PM",
+						"3/25/21":"10:00 AM - 7:00 PM",
+						"3/28/21":"10:00 AM - 7:00 PM",
+						"3/26/21":"10:00 AM - 7:00 PM",
+						"3/24/21":"10:00 AM - 7:00 PM",
+						"3/29/21":"10:00 AM - 7:00 PM",
+						"3/30/21":"10:00 AM - 7:00 PM",
+						"3/31/21":"10:00 AM - 7:00 PM"
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "TANGER OUTLET",
+			"name" : "352",
+			"centerType" : "OUTLET",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "7709141789",
+			"formattedDistance" : "2,208.2 Miles",
+			"line1" : "1000 TANGER DR STE 606",
+			"line2" : "",
+			"town" : "LOCUST GROVE",
+			"city" : "GA",
+			"postalCode" : "30248",
+			"country" : "United States",
+			"latitude" : "33.3502228",
+			"longitude" : "-84.1232696",
+			
+				"openings":
+		{
+		
+						"Sun":"12:00 PM - 6:00 PM",
+						"Mon":"9:00 AM - 9:00 PM",
+						"Tue":"9:00 AM - 9:00 PM",
+						"Wed":"9:00 AM - 9:00 PM",
+						"Thu":"9:00 AM - 9:00 PM",
+						"Fri":"9:00 AM - 9:00 PM",
+						"Sat":"9:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		},
+		{
+			"displayName" : "HARTWELL VILLAGE",
+			"name" : "756",
+			"centerType" : "STRIPMALL",
+			"hideStore" : "false",
+			"url" : "",
+			"phone" : "8646540048",
+			"formattedDistance" : "2,210.3 Miles",
+			"line1" : "13360 CLEMSON BLVD SUITE D",
+			"line2" : "",
+			"town" : "SENECA",
+			"city" : "SC",
+			"postalCode" : "29678",
+			"country" : "United States",
+			"latitude" : "34.6908132",
+			"longitude" : "-82.8589276",
+			
+				"openings":
+		{
+		
+						"Sun":"11:00 AM - 7:00 PM",
+						"Mon":"10:00 AM - 9:00 PM",
+						"Tue":"10:00 AM - 9:00 PM",
+						"Wed":"10:00 AM - 9:00 PM",
+						"Thu":"10:00 AM - 9:00 PM",
+						"Fri":"10:00 AM - 9:00 PM",
+						"Sat":"10:00 AM - 9:00 PM"
+		},
+
+				"specialOpenings":
+		{
+		
+		},
+
+			"image" : ""
+		}
+	]}
+
