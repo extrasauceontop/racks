@@ -1,6 +1,4 @@
-sgzip==0.2.1
 sgselenium==0.0.15
-requests==2.25.1
 pandas==1.2.3
 sgrequests==0.1.6
 beautifulsoup4==4.9.3

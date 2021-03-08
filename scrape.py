@@ -1,8 +1,6 @@
-import requests
 from sgselenium import SgChrome
 from bs4 import BeautifulSoup as bs
 from sgrequests import SgRequests
-import re
 import pandas as pd
 
 locator_domains = []
@@ -69,7 +67,8 @@ def getdata(start_num, search_code):
     s = SgRequests()
 
 
-    driver = SgChrome(executable_path="chromedriver.exe", is_headless=True).driver()
+    #driver = SgChrome(executable_path="chromedriver.exe", is_headless=True).driver()
+    driver = SgChrome().driver()
 
     driver.get(base_url)
 
