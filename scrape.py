@@ -20,6 +20,7 @@ hours_of_operations = []
 
 base_url = "https://www.rackroomshoes.com"
 
+
 def parse_response(response, data_url):
     for location in response["data"]:
         locator_domain = "rackroomshoes.com"
@@ -29,7 +30,7 @@ def parse_response(response, data_url):
         city = location["town"]
         state = location["city"]
         zipp = location["postalCode"]
-        
+
         country_code = location["country"]
         if country_code == "United States":
             country_code = "US"
@@ -39,12 +40,12 @@ def parse_response(response, data_url):
         location_type = "<MISSING>"
         latitude = location["latitude"]
         longitude = location["longitude"]
-        
+
         hours = ""
         for key in location["openings"].keys():
             hour_bit = location["openings"][key]
             hours = hours + key + " " + hour_bit + ", "
-        
+
         hours = hours[:-2]
 
         locator_domains.append(locator_domain)
@@ -62,12 +63,11 @@ def parse_response(response, data_url):
         longitudes.append(longitude)
         hours_of_operations.append(hours)
 
+
 def getdata(start_num, search_code):
 
     s = SgRequests()
 
-
-    #driver = SgChrome(executable_path="chromedriver.exe", is_headless=True).driver()
     driver = SgChrome().driver()
 
     driver.get(base_url)
@@ -98,13 +98,17 @@ def getdata(start_num, search_code):
         if x < start_num:
             pass
         else:
-            
+
             failed = 0
             tried = 0
             for request in driver.requests:
-                
-                
-                data_url = "https://www.rackroomshoes.com/store-finder?q=" + search_code + "&page=" + str(x)
+
+                data_url = (
+                    "https://www.rackroomshoes.com/store-finder?q="
+                    + search_code
+                    + "&page="
+                    + str(x)
+                )
 
                 headers = request.headers
 
@@ -123,12 +127,11 @@ def getdata(start_num, search_code):
 
                     if len(r_list) > 2:
 
-
                         parse_response(response_json, data_url)
 
                         failed = 1
                         break
-                    
+
                 else:
                     pass
             if failed == 0:
@@ -136,11 +139,11 @@ def getdata(start_num, search_code):
 
     return x
 
+
 search = ["33122", "98109"]
 for zipcode in search:
     failed_num = 0
-    coords = []
-    while failed_num <99:
+    while failed_num < 99:
 
         prev_fail = failed_num
         failed_num = getdata(failed_num, zipcode)
